@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: wolfnight.github.io/obsidian-Genshin
+  baseUrl: w0lfnightt05-stack.github.io/Obsidian-Genshin-2
   ignorePatterns:
     - private
     - templates
