@@ -1,0 +1,10 @@
+
+[[Pionieri (6.7 quest)]]
+
+Arriviamo sulla Luna Nera, l'altra faccia della luna. Una struttura gigante costruita dai Draghi. Riusciamo a trovare un entrata e dalle informazioni prese sappiamo che il laboratorio di Lusalim e' in questa struttura. Troviamo anche un certo "**Signore dell'oscurita'**" tornato dal mare di stelle. Questa struttura e' stata costruita per sua volonta' e che esiste da molto prima di tute le altre strutture. Il suo scopo era di trasformare la luna in un'arma spaziale. Probabilmente questo Signore oscuro e' il Re Drago [[Nibelung]] che torno'. Columbina scompare e ci addentriamo nel laboratorio. Nel laboratorio troviamo dei registri abbandonati ([[Documenti]]) e scopriamo che Ninnin (la Kuuhenki) era sua figlia che doveva concludere l'esperimento. [[Incisione dei Miraluna]]. Troviamo Columbina che ci spiega che davvero quel posto arriva fino al Nucleo della Luna. Ci entriamo per trovare una chiave dati che serve a Ninnin per la sua missione. 
+
+![[Pasted image 20260701190222.png]]
+
+Usiamo il Nucleo del Mare Lunare come ultima chiave d'accesso per il Nucleo Lunare. Riusciamo ad entrare nel Nucleo Lunare. All'interno troviamo una traccia lasciata dall'erede finale del progetto, ovvero Nin-Kiggia, chiamata anche Ninnin. Ci spiega come le tre sorelle trilune abbiano perdonato loro e abbiano permesso il continuo delle ricerche, e dal potere primordiale della creazione e' nata una piccola Kuuhenki nera. Ci dice che la missione della Kuuhenki e' di continuare a trasmettere il messaggio come un raggio di luce che squarcera' la notte come l'alba. Torniamo all'occhio dove ci aspettano Paimon e Ninnin. Nel mentre pensiamo al fatto che mandare un altro messaggio nel cielo stellato potrebbe attirare quella oscurita' malvagia e quindi la necessita' del Velo per coprire la luna e Teyvat. Alla fine Ninnin recita il messaggio e sparisce nell'universo, ma successivamente, senza che ce ne accoregessimo, un segnale di alcuni viaggiatori  viene immediatamente riprodotto. Alla fine, si scopre davvero che siamo noi e nostra sorella 
+
+![[Pasted image 20260701192912.png]]

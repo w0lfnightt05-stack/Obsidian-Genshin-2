@@ -1,0 +1,1 @@
+Drago d'Oriente, Leone del Sud, Lupo del Nord e Falco d'Occidente, ognuno di loro ha un rispettivo [[Templi dei Quattro Venti]].

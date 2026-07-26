@@ -1,0 +1,2 @@
+
+Macchine create a [[Khaenri'ha]]. Ora vengono chiamate cosi', ma inizialmente il loro nome era **Zappaterra**. Nonostante il nome, erano comunque macchine da guerra. Dopo la distruzione di Khaenri'ha, hanno perso il senno e hanno vagato pe 500 anni disperdendosi in tutta Teyvat. 

@@ -1,0 +1,3 @@
+
+La Dea prima degli avvenimenti di [[Khaenri'ha]]. Durante il casino, lei scomparve e lascio' un messaggio nell'Irminsul, "mondo dimenticami", che abbiamo sentito subito dopo essere entrati a Sumeru. Dopo la sua morte, "nacque" [[Sua Eccellenza Minore Kusanali]], [[Nahida]]. 
+Durante la storia [[Re Deshret e i Tre Magi]], creo' i templi della vita per preservare la conoscenza esterna di quel mondo e salvare il popolo di [[Re Deshret]]. Quando lui si sacrifico', lei uso' tutto il potere per estirpare questa consocenza, e cosi' facendo prese le sembianze di un infante. 

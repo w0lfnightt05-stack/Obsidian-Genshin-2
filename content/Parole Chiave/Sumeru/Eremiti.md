@@ -1,0 +1,2 @@
+
+Il nome generale per definire tutti i mercenari di Sumeru che fanno un po' da enciclopedia. Prendono ogni tipo di contratto. Loro ormai non seguono piu' nessuna divinita', visto che sono stati creati nel Deserto e gli Dei sono morti molto tempo fa.

@@ -1,0 +1,2 @@
+
+Sacerdotessa del Gran Santuario di Narukami. E il famiglio dell'Archon di Electro, [[Ei]]. Ha una forma a volpe. Koujo Sara la chiama Guuji Yae, che significa Capo sacerdote o amministratore di un santuario, quindi e' un titolo. 

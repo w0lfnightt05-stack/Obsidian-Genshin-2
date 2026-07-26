@@ -1,0 +1,2 @@
+
+Il re che governo' il deserto (e forse tutta Sumeru). Chiamato anche il Re scarlatto. Durante la storia [[Re Deshret e i Tre Magi]], scopriamo che fu lui a portare la conoscenza esterna tra la gente e che [[Sua Eccellenza Maggiore Rukkhadevata]] riusci' a gestire la situa. Decise poi di sacrificarsi per estirpare completamente la conoscenza di un altro mondo. 

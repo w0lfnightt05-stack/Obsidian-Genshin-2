@@ -1,0 +1,32 @@
+
+
+### Una foresta di cambiamenti
+Arriviamo a Sumero e incontriamo una persona. Ci ignora quando le chiediamo indicazioni cosi' la seguiamo sotto una cascata ma l'incenso all'interno ci fa svenire e sentiamo una voce dirci "Mondo dimenticami" con un albero gigante. Al risveglio ci troviamo a Borgo Gandharva con [[Collei]] e [[Tighnari]] ci cura. Ci tiene pero' sotto osservazione e siamo costretti a rimanere li.
+
+
+### Ulteriori osservazioni
+Siamo tornati operativi e andiamo con Collei a fare dei giri di routine. Nel mentre le chiediamo dell'Archon di Dendro e ci spiega che [[Sua Eccellenza Maggiore Rukkhadevata]] e' l'ex Archon di Dendro che ha creato le foreste pluviali e il **Muro di Samiel**, e ci dice che e' sparita durante una grande calamita' ([[Guerra degli Archon]]). Poi trovarono [[Sua Eccellenza Minore Kusanali]] neonata e la portarono al **Santuario di Surasthana**. Ci parla dell'[[Akademiya]] e di come Tighnari continui a rifiutare il posto fisso come saggio. Tocchiamo Collei per sbaglio e lei si altera. 
+
+
+### Malattia cronica
+Tighnari ci racconta della malattia di Collei e del suo passato. Andiamo a raccogliere dei fiori per Collei e la sua malattia ma veniamo interrotti da Amir che ci segnala dell'[[Avvizzamento]]. Andiamo a vedere cos'e'. Risolviamo l'avvizzamento e Tighnari ci parla dell'[[Irminsul]]. Ci dice che l'avvizzamento ha ammalato l'Irminsul ma nessuno sa la cura. Torniamo e c'e' una lettera dalla tipa a cui abbiamo chiesto informazioni che ha bisogno di aiuto. Tighnari ci spiega che il sogno che abbiamo fatto quando siamo svenuti in realta' era l'Irminsul con cui ci siamo connessi direttamente. 
+
+
+### Il silenzioso cercatore di conoscenza
+Andiamo a cercare la tipa ma proprio davanti alla caverna facciamo uno strano sogno con un Apostolo dell'Abisso e poi ci riprendiamo. Facciamo questi sogni per via dell'incenso che c'era anche la prima volta nella grotta ed e' fatto da piante create da Rukkhadevata. La tipa ci spiega che gli adulti di Sumeru non riescono a sognare. Torniamo da Tighnari che stava parlando con dei tipi dell'Akademia per convincerlo a fare il maestro ma lui continua a rifiutare. Alla fine ci consiglia di andare alla Citta' per incontrare un suo contatto e ci spiega cos'e' un [[terminale dell'Akasha]]. Salutiamo Collei e ci incamminiamo.
+
+
+### Il sentiero della Dea della Saggezza
+Arriviamo a Sumeru e ci danno il terminale a forma di foglia pe rconnetterci con l'Akasha. Non troviamo informazioni su Kusanali quindi decidiamo di seguire il consiglio di Tighnari e di andare a cercare il ricercatore. Il contatto ci dice che neanche lui trova altre informazioni e che Kusanali non si e' fatta vedere per questi 500 anni. Decidiamo di andare da Katherine ma neanche lei ci sa aiutare. Ci parla pero' degli [[Eremiti]] e del [[Gruppo dei Trenta]]. Ci dice di andare da un consulente del Gruppo dei Trenta in pensione che ha buoni rapporti con la [[Gilda degli avventurieri]]. Andiamo dal consulente e ci spiega che gli Eremiti sanno anche meno informazioni rispetto a noi in quanto non credono in una divinita' e che in realta' alla gente di Sumero non importi di Kusanali. 
+
+![[Pasted image 20260718190110.png]]
+
+A random incontriamo [[Dunyarzad]] che ci racconta una storia sull'Archon di Dendro ma deve scappare poco dopo perche' inseguita da dei mercenari. Scappiamo insieme a lei e andiamo in una taverna dove incontriamo [[Dehya]]. Risolvono un po' di cazzi loro e Dunyarzad ci dice che un'altra persona e' fissata con Kusanali, ovvero [[Nilou]], quindi decidiamo di andare da lei che sta sistemando il Gran Bazaar per il [[Festival di Sabzeruz]], inizialmente fatto per celebrare il compleanno di Rukkhadevata, ora di Kusanali ma viene visto in malomodo perche' ricorda la morte di Rukkhadevata. Si parla un po' con Nilou riguardo alla festa e poco dopo troviamo Katheryne girovagare al Bazaar, un po' strana. Lasciamo stare e Dehya ci dice che ha un idea per incontrare Kusanali. Ci fa incontrare il suo capo che ci parla di qualcosa di scomparso per Kusanali, cosi' ci dice di andare a Port Ormos per fingerci studenti e cercare indizi. 
+
+
+### Perduti nella Prosperita' 
+Siamo a Port Ormos e sentiamo degli studenti sospetti parlare di informazioni ambigue per un sacco di Mora, cosi' decidiamo di andare alla Taverna Djafar e origliare cio' che vogliono fare. Scopriamo che vogliono ripristinare il potere di [[Re Deshret]] per vendicarsi di Rukkhadevata e dei suoi seguaci. Vogliono vendicarsi perche' pensano che Rukkhadevata li abbia traditi e rovinato la loro nazione comandata dal Re. Ci danno un indirizzo falso e [[Alhaitam]] ci avverte, discutono e poi gli Eremiti se ne vanno. Con Al parliamo e ci dice di andare ad un indirizzo per poi ritrovarci con lui al molo. Parlando ci ricordiamo dell'oggetto misterioso che stiamo cercando e Al ce lo mostra, e' una ==Capsula della Conoscenza==, un contenitore che puo' immagazzinare informazioni liberamente. Andiamo in un posto piu' appartato per parlare e ci dice che se vogliamo l'oggetto che l'Akademiya sta cercando dobbiamo aiutarlo andando da [[Dori]]. Ci dice che per riconoscere le Capsule basta usare l'[[Energia Elementale]]. Tra l'altro ci avverte di stare attenti ai [[Matra]] che cercano le Capsule per confiscarle in quanto lavorano per l'Akademiya. Alla fine andiamo da Dori e prendiamo la roba. 
+
+
+### Cosi vicini
+Torniamo da Al e ci spiega che l'oggetto che stiamo cercando e' una Capsula della Conoscenza divina che permette di ottenere la conoscenza degli Dei e che si trova a Port Ormos. Anche lui la sta cercando. Quel gruppo di Eremiti pensa che nella Capsula si possa trovare la conoscenza per far risorgere il Re. Alla fine gli diciamo che abbiamo comprato una Capsula e che vorremmo provare ad aprirla e quindi andiamo in un posto appartato. Facciamo dei test con la capsula e ci dimostra solo che siamo gia' fortissimi. Aspettiamo due giorni e torniamo da Dori che ci dice che la Capsula divina l'ha comprata il capo di quel gruppo di Eremiti che vogliono far risorgere Re Deshret. Torniamo da Al e ci dice di aspettare due giorni per un incontro con loro. Si combatte anche con il capo che aveva aperto la Capsula e lo sconfiggiamo. Prendiamo la Capsula e l'Akasha lo cattura. Il capo alla fine pronuncia le parole "mondo dimenticami" che e' la stessa frase che noi abbiamo sentito nell'Irminsul. Alla fine noi non sappiamo che Al ha preso la Capsula. Tra qualche giorno c'e' il Festival di Sabzeruz. 
