@@ -1,16 +1,8 @@
-\# Benvenuto
+\# Pronti per la Lore di Genshin
 
 
 
-
-
-\## Note
-
-
-
-\- \[\[Discendenti]]
-
-\- \[\[Linea Temporale]]
+\## Ad Astra Abyssosque
 
 
 
