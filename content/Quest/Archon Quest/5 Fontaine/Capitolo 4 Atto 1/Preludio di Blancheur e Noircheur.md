@@ -3,3 +3,11 @@
 Ci troviamo a Ribat delle Carovane pronti per partire per Fontaine. Incontriamo Dehya che ci saluta per un ultima volta. Attraversando il deserto arriviamo al porto per Fontaine e li troviamo due persone che parlano. Ci dicono di quanto sia importante il la storia rappresentata sul palcoscenico e collegato a questo, che il **Tribunale di Fontaine** chiamato [[Opera Epiclese]] è lui stesso un palcoscenico, infatti viene anche chiamato "teatro dell'opera". Il tutto comandato e gestito dal Presidente della Corte Suprema [[Neuvillette]] e dall'[[Oratrice Meccanica d'analisi Cardinale]]. Chiediamo anche informazioni per incontrare l'Archon e ci dicono che è abbastanza semplice, basta prendere un appuntamento con Lady [[Furina]] che vive al Teatro. Ci dicono che è molto famosa, quasi una celebrità, ma dalle sue parole non sembra esserci molto rispetto nei suoi confronti. Poco dopo notiamo una ragazza che è stata ferma ad ascoltarci per tutto questo tempo e andiamo a parlarci. Parlandole incontriamo anche il fratello, ovviamente si tratta di [[Liney]] e [[Linette]]. Ci dicono che anche se viene chiamato mare, le acque intorno a Fontaine sono in realtà d'acqua dolce e quindi un enorme lago e che piano piano sta sempre salendo per inghiottire tutto. Si collegano alla **Profezia** ma non ci raccontano nulla. Gli diciamo che vogliamo andare da Lady Furina e così ci accompagnano, ma dopo qualche passo, [[Clorinde]] e alcune guardie si mettono in fila per l'entrata teatrale di Lady Furina. Si parla un po' con lei che fa l'altezzosa, ci sfida a duello (ovviamente noi senza paura) ma svia il duello fisico con uno in tribunale. Cerca una scusa per arrestarci, ma Liney salva la situazione. Furina se ne va con le sue guardie. Liney ci dice che lui è un mago e che si esibirà presto al Teatro con Linette. Lo aiutiamo a distribuire delle tasche magiche che potrebbero aiutare i cittadini a traslocare in caso di bisogno e nel mentre ci parla della profezia: 
 
 
+Lo aiutiamo con alcune cose, poi si sale sull'acquabus. Di corsa una ragazza è salita per non dover aspettare il successivo. È [[Charlotte]]. Si parla un po' di vari scoop e in men che non si dica di arriva davanti al cortile di Fontaine, alla fontana.
+
+
+### t
+
+
+
+
