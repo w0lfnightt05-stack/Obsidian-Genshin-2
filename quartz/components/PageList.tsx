@@ -75,13 +75,21 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
               <p class="meta">{page.dates && <Date date={getDate(page)!} locale={cfg.locale} />}</p>
               <div class="desc">
                 <h3>
-                  <a
-                    href={resolveRelative(fileData.slug!, page.slug!)}
-                    class="internal internal-link"
-                  >
-                    {title}
-                  </a>
-                </h3>
+    		<a
+    href={resolveRelative(fileData.slug!, page.slug!)}
+    class="internal internal-link person-link"
+  >
+    {page.frontmatter?.image && (
+      <img
+        src={resolveRelative(fileData.slug!, page.frontmatter.image)}
+        class="person-image"
+	alt={title}
+      />
+    )}
+
+    {title}
+  </a>
+</h3>
               </div>
               <ul class="tags">
                 {tags.map((tag) => (
@@ -106,6 +114,18 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
 PageList.css = `
 .section h3 {
   margin: 0;
+}
+.person-link {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.person-image {
+  width: 32px;
+  height: 32px;
+  object-fit: cover;
+  border-radius: 50%;
 }
 
 .section > .tags {
