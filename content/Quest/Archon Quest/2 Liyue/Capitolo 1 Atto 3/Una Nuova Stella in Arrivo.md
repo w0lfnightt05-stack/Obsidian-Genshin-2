@@ -1,10 +1,10 @@
 
 ### Il Palazzo Sospeso
-Andiamo verso il Palazzo di Giada ma non sappiamo come salirci. Vediamo la balistra e ci andiamo per cercare una entrata ma i Milleliti ci fermano. Arriva [[Kequing]] che salva la situazione. Parliamo un po' con lei e siamo un po' tutti depressi su come gli [[Adepti]] non stiano facendo nulla e pure [[Le Sette Stelle]] evitano i problemi. Alla fine si decide anche di fare un regalo a Ningguang come da tradizione. 
+Andiamo verso il Palazzo di Giada ma non sappiamo come salirci. Vediamo la balistra e ci andiamo per cercare una entrata ma i Milleliti ci fermano. Arriva [[Keqing]] che salva la situazione. Parliamo un po' con lei e siamo un po' tutti depressi su come gli [[Adepti]] non stiano facendo nulla e pure [[Le Sette Stelle]] evitano i problemi. Alla fine si decide anche di fare un regalo a Ningguang come da tradizione. 
 
 
 ### Equilibrium
-Durante la ricerca per gli ingredienti, troviamo uno scemo chiuso in gabbia e scopriamo essere proprietario di una gioielleria a liyue. Ci aiuta con il regalo. Andiamo verso il Palazzo di Giada e per arrivarci usiamo il codice di Kequing. Arriviamo da Ningguag e lei ci parla un po' delle battaglie di 2000 anni fa e della situazione attuale, capendo chi e' davvero il Nemico che ha ucciso Rex Lapis [[Morax]]. Si continua a parlare e tramite il dono che abbiamo dato a lei, prendiamo un foglio dalla Bacheca fantastica e andiamo in un posto segnato per vedere se i [[Fatui]] stanno facendo casini. 
+Durante la ricerca per gli ingredienti, troviamo uno scemo chiuso in gabbia e scopriamo essere proprietario di una gioielleria a liyue. Ci aiuta con il regalo. Andiamo verso il Palazzo di Giada e per arrivarci usiamo il codice di Keqing. Arriviamo da Ningguag e lei ci parla un po' delle battaglie di 2000 anni fa e della situazione attuale, capendo chi e' davvero il Nemico che ha ucciso Rex Lapis [[Morax]]. Si continua a parlare e tramite il dono che abbiamo dato a lei, prendiamo un foglio dalla Bacheca fantastica e andiamo in un posto segnato per vedere se i [[Fatui]] stanno facendo casini. 
 
 
 ### Fragranza Solitaria
