@@ -8,7 +8,7 @@ Andiamo a controllare la situa, sconfiggiamo un mostro e incontriamo Teppei che 
 
 
 ### Illusione
-Kokomi ci dice dove poter trovare la fabbrica dove vengono fatte le Illusioni, la troviamo e incontriamo [[Scaramouche]]. Ci dice che lui non e' colui che ha organizzato il tutto, ma che il Decreto di Caccia alle Visioni e' opera dei Fatui. Andiamo all'attacco ma subiamo una trappola, ma per fortuna [[Yae Miko]] ci salva. 
+Kokomi ci dice dove poter trovare la fabbrica dove vengono fatte le Illusioni, la troviamo e incontriamo [[Il Menestrello]]. Ci dice che lui non e' colui che ha organizzato il tutto, ma che il Decreto di Caccia alle Visioni e' opera dei Fatui. Andiamo all'attacco ma subiamo una trappola, ma per fortuna [[Yae Miko]] ci salva. 
 
 
 ### La via del Servitore
@@ -32,4 +32,4 @@ Ce ne andiamo ma non stiamo molto bene. Alla fine Raiden ci prende alla sprovvis
 
 
 ### Desideri
-Parlando con Yae scopriamo che lei ha ceduto lo [[Gnosis]] di Electro a Scaramouche per portarci in salvo. Ei la diede a lei perche' sua amica piu' cara. Scopriamo che Ei aveva fatto un altro prototipo di burattino ma invece che distruggerlo, lui vago' per inazuma e attirato dai Fatui, si uni a loro. Ovviamente e' [[Scaramouche]]. Ci dice che in realta' esistevano 2 Divinita' gemelle, [[Baal]] e [[Beelzebul]]. Vinsero la [[Guerra degli Archon]] insieme e quando vinsero, Baal institui' lo shogunato menter Beelzebul rimase al suo fianco. Noi conosciamo Beelzebul, ovvero Ei, mentre Baal aveva il nome di Makoto. Era semrpe vista come singola entita'. Baal mori' durante la guerra di [[Khaenri'ha]] e da allora Ei si prese cura di tutto. Chiedendo di nostra sorella, ci dice che Raiden ha tagliato i ponti con [[Celestia]] molto tempo fa, quindi non puo' essere lei la Divinita' che stiamo cercando. Ci consiglia di andare a [[Sumeru]], governata dalla Dea della Saggezza, [[Sua Eccellenza Minore Kusanali]]. 
+Parlando con Yae scopriamo che lei ha ceduto lo [[Gnosis]] di Electro a Scaramouche per portarci in salvo. Ei la diede a lei perche' sua amica piu' cara. Scopriamo che Ei aveva fatto un altro prototipo di burattino ma invece che distruggerlo, lui vago' per inazuma e attirato dai Fatui, si uni a loro. Ovviamente e' [[Il Menestrello]]. Ci dice che in realta' esistevano 2 Divinita' gemelle, [[Baal]] e [[Beelzebul]]. Vinsero la [[Guerra degli Archon]] insieme e quando vinsero, Baal institui' lo shogunato menter Beelzebul rimase al suo fianco. Noi conosciamo Beelzebul, ovvero Ei, mentre Baal aveva il nome di Makoto. Era semrpe vista come singola entita'. Baal mori' durante la guerra di [[Khaenri'ha]] e da allora Ei si prese cura di tutto. Chiedendo di nostra sorella, ci dice che Raiden ha tagliato i ponti con [[Celestia]] molto tempo fa, quindi non puo' essere lei la Divinita' che stiamo cercando. Ci consiglia di andare a [[Sumeru]], governata dalla Dea della Saggezza, [[Sua Eccellenza Minore Kusanali]]. 

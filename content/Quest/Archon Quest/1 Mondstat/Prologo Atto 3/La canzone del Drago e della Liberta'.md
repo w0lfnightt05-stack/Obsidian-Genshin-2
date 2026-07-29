@@ -25,7 +25,7 @@ Sconfitto Dvalin, il Tempio inizia a crollare e Dvalin ci prende tutti e recuper
 
 
 ### Il Vento si Placa
-Si torna a Mondstat e si parla con Amber che ci invita al Buon Cacciatore. Parliamo anche con la gente del posto. Al Buon Cacciatore troviamo Kaeya che ci parla delle nuove informazioni ottenute sull'[[Abisso]]: ha un solo capo, hanno una tipa che li governa che i mostri chiamano [[Sua Altezza Reale]] considerata la loro principessa ([[sorella]]). Torna Amber, mangiamo e ci indirizza alla Cattedrale.
+Si torna a Mondstat e si parla con Amber che ci invita al Buon Cacciatore. Parliamo anche con la gente del posto. Al Buon Cacciatore troviamo Kaeya che ci parla delle nuove informazioni ottenute sull'[[Abisso]]: ha un solo capo, hanno una tipa che li governa che i mostri chiamano [[Sua Altezza Reale]] considerata la loro principessa ([[Sorella]]). Torna Amber, mangiamo e ci indirizza alla Cattedrale.
 
 
 ### Epilogo
