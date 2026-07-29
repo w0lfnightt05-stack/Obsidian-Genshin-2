@@ -1,11 +1,7 @@
 ---
 title: Baizhu
-image: /static/images/Baizhu.png
+image: /images/Baizhu.png
 ---
-
-
-
-
 
 
 

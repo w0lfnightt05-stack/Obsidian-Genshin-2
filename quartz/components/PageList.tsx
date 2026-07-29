@@ -57,6 +57,8 @@ type Props = {
 } & QuartzComponentProps
 
 export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort }: Props) => {
+  console.log("PAGE LIST CARICATO")
+
   const sorter = sort ?? byDateAndAlphabeticalFolderFirst()
   let list = allFiles.sort(sorter)
   if (limit) {
@@ -66,6 +68,9 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
   return (
     <ul class="section-ul">
       {list.map((page) => {
+	console.log("TITOLO:", page.frontmatter?.title)
+	console.log("IMMAGINE:", page.frontmatter?.image)
+
         const title = page.frontmatter?.title
         const tags = page.frontmatter?.tags ?? []
 
@@ -74,23 +79,21 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
             <div class="section">
               <p class="meta">{page.dates && <Date date={getDate(page)!} locale={cfg.locale} />}</p>
               <div class="desc">
-                <h3>
-    		<a
+            <h3>
+  <a
     href={resolveRelative(fileData.slug!, page.slug!)}
     class="internal internal-link person-link"
   >
-    {page.frontmatter?.image && (
-      <img
-        src={resolveRelative(fileData.slug!, page.frontmatter.image)}
-        class="person-image"
-	alt={title}
-      />
-    )}
+<img
+  src="/static/images/Baizhu.png"
+  class="person-image"
+  alt="Baizhu"
+/>
 
     {title}
   </a>
 </h3>
-              </div>
+</div>
               <ul class="tags">
                 {tags.map((tag) => (
                   <li>
