@@ -3,6 +3,21 @@
 // put your custom CSS here!
 
 
+/* Modifica la dimensione del testo a livello globale per tutto il sito */
+html {
+    font-size: 17.7px; 
+}
+
+/* Cambia il colore dei link interni (puoi sostituire il codice esadecimale con l'azzurro che preferisci) */
+a.internal {
+    color: #87ceeb; 
+}
+
+/* Colore dei link interni quando ci passi sopra col mouse (hover) */
+a.internal:hover {
+    color: #4682b4; 
+}
+
 /* =====================================================================
    GENSHIN IMPACT AVATARS - QUARTZ 5
    Aggiunge l'icona del personaggio di fianco ai link corrispondenti
@@ -153,14 +168,14 @@ a[href$="world-quest" i]:not(.internal-embed)::before,
 a[href$="world-quest/" i]:not(.internal-embed)::before,
 a[href$="story-quest" i]:not(.internal-embed)::before,
 a[href$="story-quest/" i]:not(.internal-embed)::before,
-a[href$="story-quest series" i]:not(.internal-embed)::before,
-a[href$="story-quest series/" i]:not(.internal-embed)::before,
+a[href$="world-quest series" i]:not(.internal-embed)::before,
+a[href$="world-quest series/" i]:not(.internal-embed)::before,
 a[href$="archon-quest" i]:not(.internal-embed)::before,
 a[href$="archon-quest/" i]:not(.internal-embed)::before {
     content: "";
     display: inline-block;
-    width: 26px;
-    height: 26px;
+    width: 30px;
+    height: 30px;
     background-size: cover;
     border-radius: 50%;
     margin-right: 6px;

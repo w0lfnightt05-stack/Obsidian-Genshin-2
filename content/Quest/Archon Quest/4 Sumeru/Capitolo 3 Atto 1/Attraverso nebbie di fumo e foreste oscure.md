@@ -13,7 +13,7 @@ Tighnari ci racconta della malattia di Collei e del suo passato. Andiamo a racco
 
 
 ### Il silenzioso cercatore di conoscenza
-Andiamo a cercare la tipa ma proprio davanti alla caverna facciamo uno strano sogno con un Apostolo dell'Abisso e poi ci riprendiamo. Facciamo questi sogni per via dell'incenso che c'era anche la prima volta nella grotta ed e' fatto da piante create da Rukkhadevata. La tipa ci spiega che gli adulti di Sumeru non riescono a sognare. Torniamo da Tighnari che stava parlando con dei tipi dell'Akademia per convincerlo a fare il maestro ma lui continua a rifiutare. Alla fine ci consiglia di andare alla Citta' per incontrare un suo contatto e ci spiega cos'e' un [[terminale dell'Akasha]]. Salutiamo Collei e ci incamminiamo.
+Andiamo a cercare la tipa ma proprio davanti alla caverna facciamo uno strano sogno con un Apostolo dell'Abisso e poi ci riprendiamo. Facciamo questi sogni per via dell'incenso che c'era anche la prima volta nella grotta ed e' fatto da piante create da Rukkhadevata. La tipa ci spiega che gli adulti di Sumeru non riescono a sognare. Torniamo da Tighnari che stava parlando con dei tipi dell'Akademia per convincerlo a fare il maestro ma lui continua a rifiutare. Alla fine ci consiglia di andare alla Citta' per incontrare un suo contatto e ci spiega cos'e' un [[Terminale dell'Akasha]]. Salutiamo Collei e ci incamminiamo.
 
 
 ### Il sentiero della Dea della Saggezza
