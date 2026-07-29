@@ -128,6 +128,9 @@ a[href*="Yun-Jin" i]:not(.internal-embed)::before,
 a[href*="Zhongli" i]:not(.internal-embed)::before,
 a[href*="Zibai" i]:not(.internal-embed)::before,
 
+
+a[href$="mondstat" i]:not(.internal-embed)::before,
+a[href$="mondstat/" i]:not(.internal-embed)::before,
 a[href$="archon-quest" i]:not(.internal-embed)::before,
 a[href$="archon-quest/" i]:not(.internal-embed)::before {
     content: "";
@@ -260,3 +263,4 @@ a[href*="Zhongli" i]:not(.internal-embed)::before { background-image: url('/Obsi
 a[href*="Zibai" i]:not(.internal-embed)::before { background-image: url('/Obsidian-Genshin-2/static/avatars/Zibai.png'); }
 
 a[href$="archon-quest/" i]:not(.internal-embed)::before { background-image: url('/Obsidian-Genshin-2/static/simboli/Archon Quest.png'); }
+a[href$="mondstat/" i]:not(.internal-embed)::before { background-image: url('/Obsidian-Genshin-2/static/simboli/Mondstat.png'); }
