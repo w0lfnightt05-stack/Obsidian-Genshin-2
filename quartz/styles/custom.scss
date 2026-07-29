@@ -3,19 +3,33 @@
 // put your custom CSS here!
 
 
-/* Modifica la dimensione del testo a livello globale per tutto il sito */
 html {
     font-size: 17.7px; 
 }
 
-/* Cambia il colore dei link interni (puoi sostituire il codice esadecimale con l'azzurro che preferisci) */
+
 a.internal {
-    color: #87ceeb; 
+    color: #0096d3; 
 }
 
-/* Colore dei link interni quando ci passi sopra col mouse (hover) */
+
 a.internal:hover {
-    color: #4682b4; 
+    color: #006dad; 
+}
+
+a.internal {
+    background-color: transparent !important;
+}
+
+mark {
+    background-color: transparent !important;
+    color: inherit !important;
+}
+
+.breadcrumb-container,
+.breadcrumb-container a,
+.breadcrumb-container span {
+    color: #006dad;
 }
 
 /* =====================================================================
