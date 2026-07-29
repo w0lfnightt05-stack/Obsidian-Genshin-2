@@ -110,7 +110,7 @@ a[href*="Viaggiatore" i]:not(.internal-embed)::before,
 a[href*="Varesa" i]:not(.internal-embed)::before,
 a[href*="Varka" i]:not(.internal-embed)::before,
 a[href*="Vagabondo" i]:not(.internal-embed)::before,
-a[href*="Venti" i]:not(.internal-embed)::before,
+a[href="/Obsidian-Genshin-2/Personaggi/Principali/Venti" i]:not(.internal-embed)::before,
 a[href*="Wriothesley" i]:not(.internal-embed)::before,
 a[href*="Xiangling" i]:not(.internal-embed)::before,
 a[href*="Xianyun" i]:not(.internal-embed)::before,
@@ -128,7 +128,7 @@ a[href*="Yun-Jin" i]:not(.internal-embed)::before,
 a[href*="Zhongli" i]:not(.internal-embed)::before,
 a[href*="Zibai" i]:not(.internal-embed)::before,
 
-a[href*="Archon-Quest" i]:not(.internal-embed)::before {
+a[href="Obsidian-Genshin-2/Quest/Archon-Quest" i]:not(.internal-embed)::before {
     content: "";
     display: inline-block;
     width: 26px;
@@ -237,7 +237,7 @@ a[href*="Tartaglia" i]:not(.internal-embed)::before { background-image: url('/Ob
 a[href*="Thoma" i]:not(.internal-embed)::before { background-image: url('/Obsidian-Genshin-2/static/avatars/Thoma.png'); }
 a[href*="Tighnari" i]:not(.internal-embed)::before { background-image: url('/Obsidian-Genshin-2/static/avatars/Tighnari.png'); }
 a[href*="Viaggiatore" i]:not(.internal-embed)::before { background-image: url('/Obsidian-Genshin-2/static/avatars/Viaggiatore.png'); }
-a[href*="Venti" i]:not(.internal-embed)::before { background-image: url('/Obsidian-Genshin-2/static/avatars/Venti.png'); }
+a[href="/Obsidian-Genshin-2/Personaggi/Principali/Venti" i]:not(.internal-embed)::before { background-image: url('/Obsidian-Genshin-2/static/avatars/Venti.png'); }
 a[href*="Vagabondo" i]:not(.internal-embed)::before { background-image: url('/Obsidian-Genshin-2/static/avatars/Vagabondo.png'); }
 a[href*="Varesa" i]:not(.internal-embed)::before { background-image: url('/Obsidian-Genshin-2/static/avatars/Varesa.png'); }
 a[href*="Varka" i]:not(.internal-embed)::before { background-image: url('/Obsidian-Genshin-2/static/avatars/Varka.png'); }
@@ -258,4 +258,4 @@ a[href*="Yun Jin" i]:not(.internal-embed)::before { background-image: url('/Obsi
 a[href*="Zhongli" i]:not(.internal-embed)::before { background-image: url('/Obsidian-Genshin-2/static/avatars/Zhongli.png'); }
 a[href*="Zibai" i]:not(.internal-embed)::before { background-image: url('/Obsidian-Genshin-2/static/avatars/Zibai.png'); }
 
-a[href*="Archon-Quest" i]:not(.internal-embed)::before { background-image: url('/Obsidian-Genshin-2/static/simboli/Archon Quest.png'); }
+a[href="Obsidian-Genshin-2/Quest/Archon-Quest" i]:not(.internal-embed)::before { background-image: url('/Obsidian-Genshin-2/static/simboli/Archon Quest.png'); }
