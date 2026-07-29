@@ -128,9 +128,34 @@ a[href*="Yun-Jin" i]:not(.internal-embed)::before,
 a[href*="Zhongli" i]:not(.internal-embed)::before,
 a[href*="Zibai" i]:not(.internal-embed)::before,
 
+a[href$="fatui" i]:not(.internal-embed)::before,
+a[href$="fatui/" i]:not(.internal-embed)::before,
 
 a[href$="mondstat" i]:not(.internal-embed)::before,
 a[href$="mondstat/" i]:not(.internal-embed)::before,
+a[href$="liyue" i]:not(.internal-embed)::before,
+a[href$="liyue/" i]:not(.internal-embed)::before,
+a[href$="inazuma" i]:not(.internal-embed)::before,
+a[href$="inazuma/" i]:not(.internal-embed)::before,
+a[href$="sumeru" i]:not(.internal-embed)::before,
+a[href$="sumeru/" i]:not(.internal-embed)::before,
+a[href$="fontaine" i]:not(.internal-embed)::before,
+a[href$="fontaine/" i]:not(.internal-embed)::before,
+a[href$="natlan" i]:not(.internal-embed)::before,
+a[href$="natlan/" i]:not(.internal-embed)::before,
+a[href$="nod-krai" i]:not(.internal-embed)::before,
+a[href$="nodkrai/" i]:not(.internal-embed)::before,
+a[href$="snezhnaya" i]:not(.internal-embed)::before,
+a[href$="snezhnaya/" i]:not(.internal-embed)::before,
+
+a[href$="quest" i]:not(.internal-embed)::before,
+a[href$="quest/" i]:not(.internal-embed)::before,
+a[href$="world-quest" i]:not(.internal-embed)::before,
+a[href$="world-quest/" i]:not(.internal-embed)::before,
+a[href$="story-quest" i]:not(.internal-embed)::before,
+a[href$="story-quest/" i]:not(.internal-embed)::before,
+a[href$="story-quest series" i]:not(.internal-embed)::before,
+a[href$="story-quest series/" i]:not(.internal-embed)::before,
 a[href$="archon-quest" i]:not(.internal-embed)::before,
 a[href$="archon-quest/" i]:not(.internal-embed)::before {
     content: "";
@@ -262,5 +287,22 @@ a[href*="Yun Jin" i]:not(.internal-embed)::before { background-image: url('/Obsi
 a[href*="Zhongli" i]:not(.internal-embed)::before { background-image: url('/Obsidian-Genshin-2/static/avatars/Zhongli.png'); }
 a[href*="Zibai" i]:not(.internal-embed)::before { background-image: url('/Obsidian-Genshin-2/static/avatars/Zibai.png'); }
 
-a[href$="archon-quest/" i]:not(.internal-embed)::before { background-image: url('/Obsidian-Genshin-2/static/simboli/Archon Quest.png'); }
+a[href$="fatui/" i]:not(.internal-embed)::before { background-image: url('/Obsidian-Genshin-2/static/simboli/Fatui.png'); }
+
 a[href$="mondstat/" i]:not(.internal-embed)::before { background-image: url('/Obsidian-Genshin-2/static/simboli/Mondstat.png'); }
+a[href$="liyue/" i]:not(.internal-embed)::before { background-image: url('/Obsidian-Genshin-2/static/simboli/Liyue.png'); }
+a[href$="inazuma/" i]:not(.internal-embed)::before { background-image: url('/Obsidian-Genshin-2/static/simboli/Inazuma.png'); }
+a[href$="sumeru/" i]:not(.internal-embed)::before { background-image: url('/Obsidian-Genshin-2/static/simboli/Sumeru.png'); }
+a[href$="fontaine/" i]:not(.internal-embed)::before { background-image: url('/Obsidian-Genshin-2/static/simboli/Fontaine.png'); }
+a[href$="natlan/" i]:not(.internal-embed)::before { background-image: url('/Obsidian-Genshin-2/static/simboli/Natlan.png'); }
+a[href$="nod-krai/" i]:not(.internal-embed)::before { background-image: url('/Obsidian-Genshin-2/static/simboli/Nod Krai.png'); }
+a[href$="snezhnaya/" i]:not(.internal-embed)::before { background-image: url('/Obsidian-Genshin-2/static/simboli/Snezhnaya.png'); }
+
+a[href$="archon-quest/" i]:not(.internal-embed)::before { background-image: url('/Obsidian-Genshin-2/static/simboli/Archon Quest.png'); }
+a[href$="world-quest/" i]:not(.internal-embed)::before { background-image: url('/Obsidian-Genshin-2/static/simboli/World Quest.png'); }
+a[href$="quest/" i]:not(.internal-embed)::before { background-image: url('/Obsidian-Genshin-2/static/simboli/Quest.png'); }
+a[href$="story-quest/" i]:not(.internal-embed)::before { background-image: url('/Obsidian-Genshin-2/static/simboli/Story Quest.png'); }
+a[href$="world-quest-series/" i]:not(.internal-embed)::before { background-image: url('/Obsidian-Genshin-2/static/simboli/World Quest Series.png'); }
+
+
+
