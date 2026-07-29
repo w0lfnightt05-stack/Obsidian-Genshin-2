@@ -1,6 +1,6 @@
 
 ### Una via attraverso la Tempesta
-Andiamo a parlare con una tipa di Inazuma al Porto di Liyue. Ci dice che le regole sono un sacco restrittive e che la [[Commissione Kanjou]] sottopone a tutti i viaggiatori un lungo processo di approvazione. Ci parla anche della [[Commissione Tenryou]]. Ci dice che per raggiungere Inazuma, forse [[Beidou]] ci puo' aiutare. Andiamo da lei e incontriamo anche [[Kazuha]]. Beidou ci parla del Torneo della Crux, possono partecipare solo coloro che non hanno una Visione e il premio finale e' proprio una [[Visione]], che se riesce a risvegliarsi, rimarra' per sempre del proprietario, data da Kazuha. Ci iscriviamo al torneo.
+Andiamo a parlare con una tipa di Inazuma al Porto di Liyue. Ci dice che le regole sono un sacco restrittive e che la [[Commissione Kanjou]] sottopone a tutti i viaggiatori un lungo processo di approvazione. Ci parla anche della [[Commissione Tenryou]]. Ci dice che per raggiungere Inazuma, forse [[Beidou]] ci puo' aiutare. Andiamo da lei e incontriamo anche [[Kaedehara Kazuha]]. Beidou ci parla del Torneo della Crux, possono partecipare solo coloro che non hanno una Visione e il premio finale e' proprio una [[Visione]], che se riesce a risvegliarsi, rimarra' per sempre del proprietario, data da Kazuha. Ci iscriviamo al torneo.
 
 
 ### Il Torneo della Crux
