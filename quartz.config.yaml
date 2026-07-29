@@ -16,8 +16,8 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Tangerine
-      body: Tangerine
+      header: "caveat"
+      body: "caveat"
       code: IBM Plex Mono
     colors:
       lightMode:
