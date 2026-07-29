@@ -128,7 +128,7 @@ a[href*="Yun-Jin" i]:not(.internal-embed)::before,
 a[href*="Zhongli" i]:not(.internal-embed)::before,
 a[href*="Zibai" i]:not(.internal-embed)::before,
 
-a[href="Obsidian-Genshin-2/Quest/Archon-Quest/" i]:not(.internal-embed)::before {
+a[href="Obsidian-Genshin-2/quest/archon-quest/" i]:not(.internal-embed)::before {
     content: "";
     display: inline-block;
     width: 26px;
@@ -258,4 +258,4 @@ a[href*="Yun Jin" i]:not(.internal-embed)::before { background-image: url('/Obsi
 a[href*="Zhongli" i]:not(.internal-embed)::before { background-image: url('/Obsidian-Genshin-2/static/avatars/Zhongli.png'); }
 a[href*="Zibai" i]:not(.internal-embed)::before { background-image: url('/Obsidian-Genshin-2/static/avatars/Zibai.png'); }
 
-a[href="Obsidian-Genshin-2/Quest/Archon-Quest/" i]:not(.internal-embed)::before { background-image: url('/Obsidian-Genshin-2/static/simboli/Archon Quest.png'); }
+a[href="Obsidian-Genshin-2/quest/archon-quest/" i]:not(.internal-embed)::before { background-image: url('/Obsidian-Genshin-2/static/simboli/Archon Quest.png'); }
