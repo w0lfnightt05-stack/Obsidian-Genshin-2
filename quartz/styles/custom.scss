@@ -126,7 +126,9 @@ a[href*="Yoimiya" i]:not(.internal-embed)::before,
 a[href*="Yumemizuki-Mizuki" i]:not(.internal-embed)::before,
 a[href*="Yun-Jin" i]:not(.internal-embed)::before,
 a[href*="Zhongli" i]:not(.internal-embed)::before,
-a[href*="Zibai" i]:not(.internal-embed)::before {
+a[href*="Zibai" i]:not(.internal-embed)::before,
+
+a[href*="Archon-Quest" i]:not(.internal-embed)::before {
     content: "";
     display: inline-block;
     width: 26px;
@@ -193,7 +195,7 @@ a[href*="Kinich" i]:not(.internal-embed)::before { background-image: url('/Obsid
 a[href*="Keqing" i]:not(.internal-embed)::before { background-image: url('/Obsidian-Genshin-2/static/avatars/Keqing.png'); }
 a[href*="Kiraraa" i]:not(.internal-embed)::before { background-image: url('/Obsidian-Genshin-2/static/avatars/Kiraraa.png'); }
 a[href*="Klee" i]:not(.internal-embed)::before { background-image: url('/Obsidian-Genshin-2/static/avatars/Klee.png'); }
-a[href*="Kojou-Sara" i]:not(.internal-embed)::before { background-image: url('/Obsidian-Genshin-2/static/avatars/Kojou Sara.png'); }
+a[href*="Kujou-Sara" i]:not(.internal-embed)::before { background-image: url('/Obsidian-Genshin-2/static/avatars/Kujou Sara.png'); }
 a[href*="Kuki-Shinobu" i]:not(.internal-embed)::before { background-image: url('/Obsidian-Genshin-2/static/avatars/Kuki Shinobu.png'); }
 a[href*="Lan-Yan" i]:not(.internal-embed)::before { background-image: url('/Obsidian-Genshin-2/static/avatars/Lan Yan.png'); }
 a[href*="Lauma" i]:not(.internal-embed)::before { background-image: url('/Obsidian-Genshin-2/static/avatars/Lauma.png'); }
@@ -255,3 +257,5 @@ a[href*="Yumemizuki Mizuki" i]:not(.internal-embed)::before { background-image: 
 a[href*="Yun Jin" i]:not(.internal-embed)::before { background-image: url('/Obsidian-Genshin-2/static/avatars/Yun Jin.png'); }
 a[href*="Zhongli" i]:not(.internal-embed)::before { background-image: url('/Obsidian-Genshin-2/static/avatars/Zhongli.png'); }
 a[href*="Zibai" i]:not(.internal-embed)::before { background-image: url('/Obsidian-Genshin-2/static/avatars/Zibai.png'); }
+
+a[href*="Archon-Quest" i]:not(.internal-embed)::before { background-image: url('/Obsidian-Genshin-2/static/avatars/Archon Quest.png'); }
