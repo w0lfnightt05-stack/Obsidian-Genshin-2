@@ -4,3 +4,6 @@ Questa e' la primissima quest riguardante [[Enkanomiya]] che inizia al Santuario
 
 
 Ci sono 4 quest unite dove ci richiedono di spaccare i sigilli e di recuperare le 4 perle. Ovviamente l'abbiamo fatto. Nell'ultima quest, quella del Cuore, tramite le 4 perle, riusciamo a creare una Chiave che servira' per aprire Enkanomiya. Tsuyuko va a fare rapporto a Kokomi e finisce cosi' la quest. 
+
+
+-> [[Lo scorrere dell'acqua immobile]] 

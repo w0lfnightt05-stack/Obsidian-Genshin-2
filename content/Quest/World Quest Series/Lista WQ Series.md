@@ -13,6 +13,6 @@ Liyue
 
 
 Enkanomiya:
-- [ ] Le profondita' seleniche
+- [ ] [[Le profondita' seleniche]] 
 
 

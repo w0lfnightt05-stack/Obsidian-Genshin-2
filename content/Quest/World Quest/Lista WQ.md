@@ -1,3 +1,3 @@
 
-Inazuma:
-- [ ] Lo scorrere dell'acqua immobile
+Enkanomiya:
+- [ ] [[Lo scorrere dell'acqua immobile]] 
