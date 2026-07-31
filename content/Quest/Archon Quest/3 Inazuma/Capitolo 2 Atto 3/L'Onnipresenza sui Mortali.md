@@ -4,7 +4,7 @@ Parliamo con Kokomi e ci nomina generali di una unita' speciale. Andiamo verso i
 
 
 ### Coloro che Bramano lo Sguardo degli Dei
-Andiamo a controllare la situa, sconfiggiamo un mostro e incontriamo Teppei che ci fa notare lo scheletro del Dio serpente morto, [[Orobaxi]]. Torniamo da Kokomi e c'e' un epidemia da Invecchiamento Precoce. Sono le armi che creano questi problemi, perche' sono in realta' delle [[Illusione]] (Delusion) dei [[Fatui]]. Anche Teppei ne ha sentito gli effetti. 
+Andiamo a controllare la situa, sconfiggiamo un mostro e incontriamo Teppei che ci fa notare lo scheletro del Dio serpente morto, [[Orobaxi]] <font color="#ffc000">(Durante </font>[[Dal tramondo all'alba a Byakuyakoku]], <font color="#ffffff">si continua a parlare di lui, che viene nominato come Watatsumi Omikami).</font> Torniamo da Kokomi e c'e' un epidemia da Invecchiamento Precoce. Sono le armi che creano questi problemi, perche' sono in realta' delle [[Illusione]] (Delusion) dei [[Fatui]]. Anche Teppei ne ha sentito gli effetti. 
 
 
 ### Illusione
