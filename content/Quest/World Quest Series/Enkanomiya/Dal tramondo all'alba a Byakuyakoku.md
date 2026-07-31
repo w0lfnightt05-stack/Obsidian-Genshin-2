@@ -1,5 +1,6 @@
 
-<p align="justify"> [[Lo scorrere dell'acqua immobile]] <-                            -> [[]] </p>
+ 
+[[Lo scorrere dell'acqua immobile]] <-                            -> [[]]
 
 
 ### Ingresso a Tokoyo
