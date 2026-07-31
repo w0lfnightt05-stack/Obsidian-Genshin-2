@@ -12,3 +12,7 @@ Liyue
 - [ ] Sotto le lanterne splendenti
 
 
+Enkanomiya:
+- [ ] Le profondita' seleniche
+
+
