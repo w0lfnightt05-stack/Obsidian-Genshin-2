@@ -59,3 +59,21 @@ Racconta la storia di una fata che abitava una sorgente di mondstat e che un bam
 - [ ] La principessa Mina della nazione caduta
 - [ ] Fiori per la principessa Fischl
 - [ ] La storia di Shiruyeh
+- [ ] Il foglio del fogliame
+- [ ] La pergamena della canzone fluente
+- [ ] Le mille notti
+- [ ] Fiabe di Fontaine
+- [ ] Remuria: il declino e la rovina
+- [ ] Robben contro Chesterton: la spilla iridata
+- [ ] La chanson d'Érinnyes
+- [ ] Storia di un'oca dalle ali di neve
+- [ ] I due moschettieri
+- [ ] La piccola strega e la fiamma perpetua
+- [ ] Il Signore del vulcano e i Chiodi dell'ombra
+- [ ] Sorgenti di giada nascosta
+- [ ] Prima incursione di Sundjatta
+- [ ] Kompore l'Astuto
+- [ ] Inni dell'Estremo Nord
+- [ ] Echi della conchiglia
+
+
