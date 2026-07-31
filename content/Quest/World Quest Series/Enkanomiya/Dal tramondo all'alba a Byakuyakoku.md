@@ -1,6 +1,6 @@
 
  
-[[Lo scorrere dell'acqua immobile]] <-----------------------> [[]]
+[[Lo scorrere dell'acqua immobile]] <------
 
 
 ### Ingresso a Tokoyo
