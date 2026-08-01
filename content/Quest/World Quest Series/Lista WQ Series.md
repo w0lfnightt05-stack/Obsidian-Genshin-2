@@ -11,10 +11,13 @@ Liyue
 - [ ] Ultimo bagliore del coraggio
 - [ ] Sotto le lanterne splendenti
 
+Inazuma:
+- [x] [[Le profondita' seleniche]] 
+
 
 Enkanomiya:
-- [x] [[Le profondita' seleniche]] 
 - [x] [[Dal tramondo all'alba a Byakuyakoku]]
 - [x] [[Il segreto di Erebos]] 
+- [ ] [[Il lamento di Hyperion]] 
 
 

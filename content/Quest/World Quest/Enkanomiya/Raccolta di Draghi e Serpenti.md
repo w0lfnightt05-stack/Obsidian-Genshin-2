@@ -1,0 +1,2 @@
+
+Nella biblioteca troviamo Ema, la bibliotecaria che sta cercando i libri de [[La raccolta di Byakuyakoku]]. Li ritroviamo e oltre a dirci qualche informazione aggiuntiva che gia' sappiamo, non ci dice nulla. 
