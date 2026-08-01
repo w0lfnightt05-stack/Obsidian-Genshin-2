@@ -13,6 +13,7 @@ Liyue
 
 Inazuma:
 - [x] [[Le profondita' seleniche]] 
+- [x] [[L'eredità di Orobashi]] 
 
 
 Enkanomiya:
