@@ -13,6 +13,8 @@ Liyue
 
 
 Enkanomiya:
-- [ ] [[Le profondita' seleniche]] 
+- [x] [[Le profondita' seleniche]] 
+- [x] [[Dal tramondo all'alba a Byakuyakoku]]
+- [x] [[Il segreto di Erebos]] 
 
 
