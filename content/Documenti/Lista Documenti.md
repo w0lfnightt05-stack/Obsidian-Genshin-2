@@ -26,7 +26,7 @@ Racconta la storia di una fata che abitava una sorgente di mondstat e che un bam
 - [ ] Filo di Perle
 - [ ] Guerre d'Hamavaran
 - [ ] Racconti preziosi del Kiyoshiken Shinkageuchi
-- [ ] La raccolta di Byakuyakoku
+- [x] [[La raccolta di Byakuyakoku]] 
 - [ ] Il crollo del Castello Sbiadito
 - [ ] Il Crononauta
 - [ ] Perinheri

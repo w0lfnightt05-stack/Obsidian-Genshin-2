@@ -1,2 +1,2 @@
 
-Ha condannato a morte [[Orobaxi]] per aver accidentalmente letto [[La raccolta di Byakuyajoju]]. 
+Ha condannato a morte [[Orobaxi]] per aver accidentalmente letto [[La raccolta di Byakuyakoku]]. 

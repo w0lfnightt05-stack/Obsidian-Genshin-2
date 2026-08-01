@@ -1,2 +1,2 @@
 
-Conosciuti anche come: Il Primordiale, Phanes (nome proprio)
+Conosciuti anche come: Il Primigenio, Phanes (nome proprio)
