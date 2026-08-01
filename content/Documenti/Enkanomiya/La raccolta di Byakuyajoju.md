@@ -5,7 +5,11 @@ Un testo di Enkanomiya (Byakuyakoku) che è stato proibito di leggere. Quando Or
 #### VOLUME 1
 *Il Serpente e i Draghi di Tokoyokoku*
 
+La leggenda narra che Aberaku (Abrax) avesse ottenuto la saggezza grazie a Tokoyo Ookami ([[Istaroth]]) e fu cosi' che riusci' a portare la luce ad Enkanomiya, ma il Figlio del Sole era invidioso della sua bravura cosi' lo rinchiuse a vita. 
 
+"L'origine del cielo e della terra e' come quella dell'uovo e della gallina, e non sono forse imparentati i Draghi con i Serpenti?"
+
+Dopo che Abrax fu incarcerato, il popolo nomino' il Figlio del Sole come loro capo, ma comando' con tirannia e ingiustizia. Solo molti anni dopo, un giovane di Enkanomiya si mise in viaggio oltre i 3 angoli di Enkanomiya, eludendo i Vishap alla ricerca di un Fiore d'Osso di Drago. Ma quello che trovo' era enorme serpente ([[Orobaxi]]) che giaceva in una grotta. Nonostante il ragazzo non fosse un suo seguace ma un semplice umano, Orobaxi concesse un desiderio al ragazzo. Lui chiedette che Orobaxi diventasse il loro Dio. Cosi' cacciarono il Figlio del Sole e l'Erede dei Draghi diminuirono le loro incursioni.
 
 
 
@@ -38,3 +42,10 @@ L'Helios fu terminato e iniziarono gli anni del Sole e della Luna.
 Gli antenati iniziarono a cercare la via per il ritorno visto che probabilmente la guerra era finita, ma il Primordiale aveva imposto un divieto impedendo agli antenati di risalire in superficie. Abrax fu imprigionato dal Figlio del Sole, il successivo comandante di Enkanomiya prima di Oroboxis. 
 
 A fine documento, nel decimo anno del sole e della Luna, qualcuno ha scritto in questo testo come scriba di Tokoyo Ookami ma non scrisse niente di interessante. 
+
+
+
+--- 
+#### VOLUME 3
+*Studi idrologici a Byakuyakoku*
+
