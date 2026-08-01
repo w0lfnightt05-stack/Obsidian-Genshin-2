@@ -3,6 +3,12 @@ Un testo di Enkanomiya (Byakuyakoku) che è stato proibito di leggere. Quando Or
 
 
 
+
+
+---
+#### VOLUME 2
+Prima del sole e della luna
+
 Quando il trono dei cieli arrivò, il vero signore, il Primordiale ([[Principi Celesti]]) venne per combattere i Sette Sovrani ([[Tredici Signori Sovrani]]), ovvero i signori dei draghi del vecchio mondo. Il Primordiale creò delle Ombre Splendenti ([[Quattro Ombre]]) di se stesso. 
 
 Il Primordiale deve essere stato Phanes ([[Principi Celesti]]). Aveva ali e una corona. Nacque da un uovo di natura androgina. Ma affinché il mondo fosse creato, il guscio d'uovo doveva essere rotto, ma Phanes usò il guscio ([[Cielo Falso]]) per separare l'universo ([[Mare di Stelle]]) e [[Teyvat]]. 
@@ -27,4 +33,4 @@ L'Helios fu terminato e iniziarono gli anni del Sole e della Luna.
 
 Gli antenati iniziarono a cercare la via per il ritorno visto che probabilmente la guerra era finita, ma il Primordiale aveva imposto un divieto impedendo agli antenati di risalire in superficie. Abrax fu imprigionato dal Figlio del Sole, il successivo comandante di Enkanomiya prima di Oroboxis. 
 
-A fine documento, nel decimo anno del sole e della Luna, qualcuno ha scritto in questo testo come uno scriba di Tokoyo Ookami ma non scrisse niente di interessante. 
+A fine documento, nel decimo anno del sole e della Luna, qualcuno ha scritto in questo testo come scriba di Tokoyo Ookami ma non scrisse niente di interessante. 
