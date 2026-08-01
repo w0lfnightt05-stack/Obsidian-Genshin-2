@@ -1,13 +1,17 @@
 
 Un testo di Enkanomiya (Byakuyakoku) che è stato proibito di leggere. Quando Oroborix l'ha letto per sbaglio, Celestia gli ha dato una sentenza di morte, perché si dice contenga la storia di una civiltà senza divinità, il che proverebbe che queste divinità e Celestia provengono da un altro mondo. 
 
+---
+#### VOLUME 1
+*Il Serpente e i Draghi di Tokoyokoku*
+
 
 
 
 
 ---
 #### VOLUME 2
-Prima del sole e della luna
+*Prima del sole e della luna* 
 
 Quando il trono dei cieli arrivò, il vero signore, il Primordiale ([[Principi Celesti]]) venne per combattere i Sette Sovrani ([[Tredici Signori Sovrani]]), ovvero i signori dei draghi del vecchio mondo. Il Primordiale creò delle Ombre Splendenti ([[Quattro Ombre]]) di se stesso. 
 
