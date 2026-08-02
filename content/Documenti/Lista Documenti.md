@@ -17,11 +17,11 @@ Penso abbia dei riferimenti con la donna della spada danzante della Torre di Mon
 Racconta la storia di una fata che abitava una sorgente di mondstat e che un bambino le chiese una promessa. Tra lui che fraintese le parole della fata e la decisione di lei, alla fine lui invecchio e lei non si fece piu' vedere da lui. 
 
 - [ ] Racconti tra le Onde
-- [ ] Foresta di Bambu' al Chiaro di Luna
-- [ ] Racconto di un Ubriacone
+- [ ] Foresta di bambu' al chiaro di Luna
+- [ ] Racconto di un ubriacone
 - [ ] Rex Incognito
 - [ ] Tradizioni di Liyue
-- [ ] Racconti del Gagliardo
+- [ ] Racconti del gagliardo
 - [x] [[Brezza nella Foresta]] 
 - [ ] Filo di Perle
 - [ ] Guerre d'Hamavaran
@@ -62,13 +62,13 @@ Racconta la storia di una fata che abitava una sorgente di mondstat e che un bam
 - [ ] Il foglio del fogliame
 - [ ] La pergamena della canzone fluente
 - [ ] Le mille notti
-- [ ] Fiabe di Fontaine
 - [ ] Remuria: il declino e la rovina
+- [ ] Fiabe di Fontaine
 - [ ] Robben contro Chesterton: la spilla iridata
 - [ ] La chanson d'Érinnyes
 - [ ] Storia di un'oca dalle ali di neve
 - [ ] I due moschettieri
-- [ ] La piccola strega e la fiamma perpetua
+- [ ] [[La piccola strega e la fiamma perpetua]]
 - [ ] Il Signore del vulcano e i Chiodi dell'ombra
 - [ ] Sorgenti di giada nascosta
 - [ ] Prima incursione di Sundjatta
