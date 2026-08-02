@@ -1,6 +1,9 @@
 
+
 ---
+
 #### VOLUME 1
+
 Parla di questa strega che deve superare la Certificazione per diventare strega e la sua prova consiste nel recuperare il Fuoco Immortale. Viene nominata la legge di Morphy, la balena gigante dell'universo e la pietra filosofale. La maestra di questa streghetta sapeva che era molto difficile come prova, però sapeva che la streghetta ci sarebbe riuscita.
 Volume scritto da [[Alice]].
 
