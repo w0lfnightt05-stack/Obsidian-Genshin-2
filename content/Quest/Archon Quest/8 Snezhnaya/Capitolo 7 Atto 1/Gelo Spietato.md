@@ -5,4 +5,4 @@ Ci troviamo a Nod Krai e Paimon ci dice che finalmente possiamo andare a Snezhna
 Con Alyosha indaghiamo sulla faccenda dell'energia e scopriamo che il sindaco e il suo funzionario stavano vendendo illegalmente i Kristal. Cosi' i fatui ora possono riattivare le ferrovie. Finalmente riusciamo a rimettere il treno sulle rotaie e a partire. Con la nostra solita fortuna, entriamo nel [[Regno delle Ombre]], un luogo cupo e fermo. Tempo e spazio non hanno significato in questo posto. Siamo riusciti a fuggire dal Regno delle Ombre. Occhio delle Graie per darci la tuta e le armi, ha nominato [[Iperborea]], la citta' dorata. 
 
 
-Arriviamo a Snezhnograd 
+Arriviamo a Snezhnograd e decidiamo di andare da un dottore per Paimon. Viene visitata e sembra essere tutto apposto. Nel mentre, noi decidiamo di andare dal Principe per chiedere qualche informazione sul piano della Tsaritza. 
