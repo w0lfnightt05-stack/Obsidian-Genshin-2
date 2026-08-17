@@ -4,4 +4,4 @@ Si va all'Opera per cercare Tonia e vedere la performance di Odette. Finita la p
 
 
 ### La confessione di Lelek
-In confidenza, ne parliamo con gli altri Rotok e chiediamo ad Odette se e' davvero Lelek. Lei confessa ma non ha ucciso nessuno. Rivela la sua identita' anche a tutti gli altri. 
+In confidenza, ne parliamo con gli altri Rotok e chiediamo ad Odette se e' davvero Lelek. Lei confessa ma non ha ucciso nessuno. Rivela la sua identita' anche a tutti gli altri. Noi e Valeriy si fa a turno per la guardia, poi tocca a noi e ad Odette. Nel mentre si parla di Rosalyne. Si parla anche dell'energia per il Progetto, e ci dice che serve per un arma finale. Il progetto e' controllato da Pierrot e il laboratorio si trova nelle profondita' del palazzo dell'Armeria. Arriva il nostro turno di dormire e ci ritroviamo di nuovo in quel sogno strano. Di nuovo altre due persone si arrendono inghiottite dalla nebbia nera. Continuando, troviamo Odette con il nome di Emissaria delle Stelle. 
