@@ -1,0 +1,1 @@
+I seguaci della Tsaritza. Il loro quartier generale a Snezhnaya si chiama Glupov ed e' come un palazzo armeria a se stante. 
