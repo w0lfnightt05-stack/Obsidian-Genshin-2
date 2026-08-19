@@ -23,6 +23,7 @@ Enkanomiya:
 
 
 Snezhnaya:
-- [ ] [[Esperidi d'amore e odio]] 
+- [x] [[Esperidi d'amore e odio]] 
+- [ ] [[Nella dimora della vita]] 
 
 

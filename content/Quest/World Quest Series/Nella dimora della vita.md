@@ -1,0 +1,2 @@
+
+Troviamo dei tipi in mezzo al lago, li sconfiggiammo e uno di loro ci dice che c'e' un nascondiglio all'interno della grotta. Riusciamo ad aprire la grotta e dentro ad una cassa troviamo Nastya. Proseguendo per la grotta dovremo riuscire ad arrivare in citta'. 
