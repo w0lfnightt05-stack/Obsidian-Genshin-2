@@ -1,2 +1,2 @@
 
-Troviamo dei tipi in mezzo al lago, li sconfiggiammo e uno di loro ci dice che c'e' un nascondiglio all'interno della grotta. Riusciamo ad aprire la grotta e dentro ad una cassa troviamo Nastya. Proseguiamo per la grotta e troviamo un luogo abbastanza caldo. [[Occhio delle Graie]] percepisce un altro suo pezzo di corpo. 
+Troviamo dei tipi in mezzo al lago, li sconfiggiammo e uno di loro ci dice che c'e' un nascondiglio all'interno della grotta. Riusciamo ad aprire la grotta e dentro ad una cassa troviamo Nastya. Proseguiamo per la grotta e troviamo un luogo abbastanza caldo. [[Occhio delle Graie]] percepisce un altro suo pezzo di corpo. Proseguiamo e Nastya ci dice che dobbiamo attraversare la stazione e altri luoghi per arrivare nella torre centrale. 
