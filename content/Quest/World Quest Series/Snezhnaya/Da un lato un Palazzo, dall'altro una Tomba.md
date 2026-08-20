@@ -1,2 +1,2 @@
 
-Parliamo con [[Occhio delle Graie]] sul treno della stazione. Ci dice che l'ultimo pezzo del suo corpo e' nella tomba dello Tsar precedente. 
+Parliamo con [[Occhio delle Graie]] sul treno della stazione. Ci dice che l'ultimo pezzo del suo corpo e' nella tomba dello Tsar precedente. Arriviamo verso il luogo ma non si puo' raggiungere con i binari. Si trova un'altra strada e finalmente si arriva davanti alla reggia privata dello [[Tsar Belyi]], il Palazzo della Candida Corona. Per arrivarci, dobbiamo attivare i binari segreti. 
