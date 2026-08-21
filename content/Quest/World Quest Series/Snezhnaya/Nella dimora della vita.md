@@ -4,4 +4,4 @@ Troviamo dei tipi in mezzo al lago, li sconfiggiammo e uno di loro ci dice che c
 
 
 
-[[Esperidi d'amore e odio]] 
+[[Esperidi d'amore e odio]]     [[Da un lato un Palazzo, dall'altro una Tomba]]

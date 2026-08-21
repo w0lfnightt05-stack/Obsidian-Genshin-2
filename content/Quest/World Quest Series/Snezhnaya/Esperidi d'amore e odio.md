@@ -5,4 +5,4 @@ Scaliamo la montagna innevata per arrivare alla strada per la Casa delle Esperid
 
 
 
-[[Nella dimora della vita]] 
+[[Nella dimora della vita]]       [[Da un lato un Palazzo, dall'altro una Tomba]] 

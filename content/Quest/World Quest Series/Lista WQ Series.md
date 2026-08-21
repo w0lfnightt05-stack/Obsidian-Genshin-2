@@ -24,6 +24,8 @@ Enkanomiya:
 
 Snezhnaya:
 - [x] [[Esperidi d'amore e odio]] 
-- [ ] [[Nella dimora della vita]] 
+- [x] [[Nella dimora della vita]] 
+- [x] [[Da un lato un Palazzo, dall'altro una Tomba]]
+- [ ] [[Un'Arca che un tempo era un'Anima]] 
 
 
