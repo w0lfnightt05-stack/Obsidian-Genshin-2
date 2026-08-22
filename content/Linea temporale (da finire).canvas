@@ -1,7 +1,14 @@
 {
 	"nodes":[
-		{"id":"930425775aab7f46","x":-40,"y":60,"width":274,"height":70,"type":"text","text":"[[Nibelung]], Padre e Re dei Draghi e Sovrano del Vecchio Mondo"},
-		{"id":"a79a95557aaefa9d","x":60,"y":0,"width":86,"height":51,"color":"1","type":"text","text":"**==INIZIO==**"}
+		{"id":"1b78bce4fe2300c4","type":"text","text":"Il Vecchio Mondo","x":-340,"y":70,"width":250,"height":60},
+		{"id":"581b22abce138b9b","type":"text","text":"Draghi e dagli Elementosauri Abissali (Vishap).","x":-1180,"y":60,"width":320,"height":80},
+		{"id":"a79a95557aaefa9d","type":"text","text":"INIZIO","x":79,"y":-21,"width":121,"height":51,"color":"1"},
+		{"id":"930425775aab7f46","type":"text","text":"[[Nibelung]], Padre e Re dei Draghi e Sovrano del Vecchio Mondo","x":-40,"y":30,"width":360,"height":80},
+		{"id":"23974b3535be6529","x":720,"y":40,"width":250,"height":60,"type":"text","text":""}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"f602578b3400aa0e","fromNode":"1b78bce4fe2300c4","fromSide":"left","toNode":"581b22abce138b9b","toSide":"right","label":"Il Vecchio Mondo era abitato da"},
+		{"id":"3eb8486b54b3680a","fromNode":"930425775aab7f46","fromSide":"left","toNode":"1b78bce4fe2300c4","toSide":"right"},
+		{"id":"d18e66f0ba269a5e","fromNode":"930425775aab7f46","fromSide":"right","toNode":"23974b3535be6529","toSide":"left","label":"E' stato avvertito della fine del mondo da"}
+	]
 }
