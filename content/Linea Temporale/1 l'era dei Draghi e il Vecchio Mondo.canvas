@@ -1,10 +1,10 @@
 {
 	"nodes":[
-		{"id":"930425775aab7f46","type":"text","text":"[[Nibelung]], Padre e Re dei Draghi e Sovrano del Vecchio Mondo","x":-40,"y":30,"width":360,"height":80,"color":"3"},
-		{"id":"1b78bce4fe2300c4","type":"text","text":"Il Vecchio Mondo","x":-340,"y":-25,"width":250,"height":60,"color":"#312f2f"},
+		{"id":"930425775aab7f46","type":"text","text":"[[Nibelung]], Padre e Re dei Draghi e Sovrano del Vecchio Mondo","x":-40,"y":-2,"width":360,"height":113,"color":"3"},
+		{"id":"1b78bce4fe2300c4","type":"text","text":"Il Vecchio Mondo","x":-340,"y":-40,"width":250,"height":75,"color":"#312f2f"},
 		{"id":"23974b3535be6529","type":"text","text":"The Voyager, uno che faceva parte dei [[Chroniclers]], incaricato di registrate tutte le civilta' morenti del cosmo. ","x":700,"y":25,"width":600,"height":90},
-		{"id":"02fab85064f482c4","type":"text","text":"Le Tre Lune (Aria, Sonnet, Canon)","x":-835,"y":100,"width":230,"height":64,"color":"6"},
-		{"id":"49d92c856c0a01ae","type":"text","text":"Parti e creo' tre dee per governare il mondo in sua assenza, aspettando il suo ritorno.","x":-549,"y":78,"width":419,"height":108},
+		{"id":"02fab85064f482c4","type":"text","text":"Le Tre Lune (Aria, Sonnet, Canon)","x":-835,"y":78,"width":230,"height":86,"color":"6"},
+		{"id":"49d92c856c0a01ae","type":"text","text":"Parti e creo' tre dee per governare il mondo in sua assenza, aspettando il suo ritorno.","x":-549,"y":60,"width":419,"height":126},
 		{"id":"f9ea7339aa8b6917","type":"text","text":"L'ERA DEI DRAGHI E IL VECCHIO MONDO (8500 ANNI FA)","x":-157,"y":-200,"width":595,"height":50,"color":"1"},
 		{"id":"d37358b3149abcc5","type":"text","text":"Apep, il Drago Sovrano di Dendro","x":16,"y":365,"width":250,"height":77,"color":"4"},
 		{"id":"33be5a4c9a3e4641","type":"text","text":"Azdaha, il Drago di Geo","x":320,"y":365,"width":246,"height":77,"color":"2"},
@@ -17,7 +17,7 @@
 		{"id":"a2bdde349f94aa3c","type":"text","text":"Citta' Sacra di [[Natlantea]] ","x":-733,"y":780,"width":277,"height":60},
 		{"id":"2a410d5efcafeb94","x":-282,"y":640,"width":250,"height":100,"type":"text","text":"[[Mare Primordiale]], da dove ha avuto origine tutta la vita"},
 		{"id":"f6db4ea08de45e62","x":16,"y":640,"width":250,"height":100,"type":"text","text":"Forme di vita Elementali dentro al suo corpo"},
-		{"id":"581b22abce138b9b","type":"text","text":"Draghi e dagli Elementosauri Abissali (Vishap).","x":-940,"y":-35,"width":320,"height":80}
+		{"id":"581b22abce138b9b","type":"text","text":"Draghi e dagli Elementosauri Abissali (Vishap).","x":-940,"y":-80,"width":320,"height":125}
 	],
 	"edges":[
 		{"id":"f602578b3400aa0e","fromNode":"1b78bce4fe2300c4","fromSide":"left","toNode":"581b22abce138b9b","toSide":"right","color":"#312f2f","label":"era abitato da"},
