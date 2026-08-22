@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"3690907c6b165c7c","type":"text","text":"LA CONQUISTA DEL VECCHIO MONDO E LA CREAZIONE DI TEYVAT (6500-600 ANNI FA)","x":-500,"y":-420,"width":864,"height":60,"color":"1"},
+		{"id":"43486301275d823d","type":"text","text":"[[1 L'era dei Draghi e il Vecchio Mondo.canvas]]","x":-295,"y":-300,"width":455,"height":60},
+		{"id":"92e1d731aac45f09","type":"text","text":"Primogenito ([[Principi Celesti]])","x":-253,"y":-100,"width":372,"height":60,"color":"3"},
+		{"id":"cd54d64348c00147","type":"text","text":"nato da un \"uovo\" che usa dopo la guerra per rimodellare il Vecchio Mondo in un nuovo mondo chiamato [[Teyvat]]. ","x":-1080,"y":-147,"width":330,"height":154},
+		{"id":"fff2bb464eac6374","type":"text","text":"","x":-1540,"y":-107,"width":250,"height":60},
+		{"id":"b858ed22d3906efb","type":"text","text":"[[Le Quattro Ombre]]","x":-179,"y":80,"width":224,"height":60},
+		{"id":"4db64f0363e9e628","x":-378,"y":220,"width":250,"height":77,"color":"1","type":"text","text":"[[Ronova]], la Signora della Morte"},
+		{"id":"305bd7fb2e2b58a4","x":-6,"y":220,"width":250,"height":77,"color":"2","type":"text","text":"[[Asmoday]], la Signora dello Spazio"},
+		{"id":"b60a403a0686ab09","x":380,"y":220,"width":250,"height":77,"color":"6","type":"text","text":"[[Istaroth]], la Signora del Tempo"},
+		{"id":"db3b6ca5fa3f7563","type":"text","text":"[[Naberius]], la Signora della Vita","x":-780,"y":220,"width":250,"height":77,"color":"5"}
+	],
+	"edges":[
+		{"id":"1cfd8d102d42272e","fromNode":"43486301275d823d","fromSide":"bottom","toNode":"92e1d731aac45f09","toSide":"top","label":"minacciato dall'arrivo di"},
+		{"id":"75c22fdf202ac148","fromNode":"92e1d731aac45f09","fromSide":"left","toNode":"cd54d64348c00147","toSide":"right"},
+		{"id":"4cc6a8f241e6fc32","fromNode":"cd54d64348c00147","fromSide":"left","toNode":"fff2bb464eac6374","toSide":"right"},
+		{"id":"7c6e4b52663fe556","fromNode":"92e1d731aac45f09","fromSide":"bottom","toNode":"b858ed22d3906efb","toSide":"top","label":"creo'"},
+		{"id":"b4b9d24704475a8e","fromNode":"b858ed22d3906efb","fromSide":"bottom","toNode":"db3b6ca5fa3f7563","toSide":"top","color":"5"},
+		{"id":"84266ab75ef6c9e4","fromNode":"b858ed22d3906efb","fromSide":"bottom","toNode":"4db64f0363e9e628","toSide":"top","color":"1"},
+		{"id":"434f326307251c1e","fromNode":"b858ed22d3906efb","fromSide":"bottom","toNode":"305bd7fb2e2b58a4","toSide":"top","color":"2"},
+		{"id":"a19c71e194e2eced","fromNode":"b858ed22d3906efb","fromSide":"bottom","toNode":"b60a403a0686ab09","toSide":"top","color":"6"}
+	]
+}
