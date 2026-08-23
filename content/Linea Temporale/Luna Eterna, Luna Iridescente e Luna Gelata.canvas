@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"912818990b5fdf5d","type":"text","text":"[[2 La conquista del Vecchio Mondo e la creazione di Teyvat.canvas]]","x":-196,"y":-360,"width":404,"height":80},
+		{"id":"912818990b5fdf5d","type":"text","text":"[[1 L'era dei Draghi e il Vecchio Mondo.canvas]]","x":-196,"y":-360,"width":404,"height":80},
 		{"id":"7629120853c1e4f9","type":"text","text":"Luna Eterna, Luna Iridescente e Luna Gelata","x":-159,"y":-100,"width":331,"height":81,"color":"6"},
 		{"id":"9c991a2ca134657b","type":"text","text":"Il Territorio di Nod è pieno di Kuuvahki perché Columbina vi ha trasformato il suo corpo e lo ha riversato sulla regione dalla prigione delle Sorelle della Luna all'inizio dei tempi durante il paradosso temporale","x":-1300,"y":-179,"width":340,"height":240},
 		{"id":"3d325b9daebe262c","type":"text","text":"La quarta luna non e' riuscita a materializzasi ed e' diventata [[Nod Krai]], la terra piena di Kuuvahki","x":-960,"y":-131,"width":295,"height":145},
@@ -15,7 +15,7 @@
 		{"id":"c6f82ff5fce1c373","type":"text","text":"Un ricercatore drago chiamato Ibni-Belum creo' un sito di lancio per astronavi nella fossa di Dudanna per raggiungere le lune e ha guidato la sua squadra sulla Luna Gelata per realizzare il [[Progetto Miraluna]]","x":-1125,"y":181,"width":501,"height":163},
 		{"id":"a308aaa89b0e1813","type":"text","text":"Qui capto' un segnale dallo spazio profondo che credeva provenisse da [[Nibelung]] ma non riuscì a decifrarlo, così costruì la Torre di Ibni-Belum per ricercarla ma senza successo. ","x":-494,"y":192,"width":501,"height":140},
 		{"id":"1d1bd605cf46135d","type":"text","text":"Con l'aiuto delle Sorelle della Luna, Lusalim riuscì ad aumentare la portata delle onde e riuscì ad avvolgere la Luna Gelata in un Velo Lunare più grande","x":-1125,"y":763,"width":501,"height":136},
-		{"id":"54e98449a632f333","x":-1480,"y":1059,"width":300,"height":140,"type":"text","text":"Le Sorelle della Luna furono risparmiate dal Primogenio e cotninuarono a proteggere Teyvat"},
+		{"id":"54e98449a632f333","type":"text","text":"Le Sorelle della Luna furono risparmiate dal Primogenio e cotninuarono a proteggere Teyvat","x":-1480,"y":1059,"width":300,"height":140},
 		{"id":"19dc599ef02196ad","type":"text","text":"[[2 La conquista del Vecchio Mondo e la creazione di Teyvat.canvas]]","x":-1740,"y":915,"width":360,"height":84,"color":"1"}
 	],
 	"edges":[

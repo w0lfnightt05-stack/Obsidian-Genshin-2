@@ -17,7 +17,7 @@
 		{"id":"2a410d5efcafeb94","type":"text","text":"[[Mare Primordiale]], da dove ha avuto origine tutta la vita","x":-282,"y":640,"width":250,"height":100},
 		{"id":"f6db4ea08de45e62","type":"text","text":"Forme di vita Elementali dentro al suo corpo","x":16,"y":640,"width":250,"height":100},
 		{"id":"581b22abce138b9b","type":"text","text":"Draghi e dagli Elementosauri Abissali (Vishap).","x":-940,"y":-35,"width":320,"height":80},
-		{"id":"02fab85064f482c4","type":"text","text":"Le Tre Lune (Aria, Sonnet, Canon)","x":-835,"y":100,"width":230,"height":64,"color":"6"},
+		{"id":"02fab85064f482c4","type":"text","text":"Le Tre Lune (Aria, Sonnet, Canon)","x":-835,"y":100,"width":230,"height":64},
 		{"id":"b33960554363d68c","type":"text","text":"[[Luna Eterna, Luna Iridescente e Luna Gelata.canvas]]","x":-1420,"y":72,"width":230,"height":120,"color":"6"}
 	],
 	"edges":[
@@ -37,6 +37,6 @@
 		{"id":"6c76306211127650","fromNode":"b8dbea426a9883e3","fromSide":"bottom","toNode":"a2bdde349f94aa3c","toSide":"top","color":"1","label":"con cui ha creato"},
 		{"id":"a1171c128304c964","fromNode":"dcdaa7eabe114f54","fromSide":"bottom","toNode":"2a410d5efcafeb94","toSide":"top","color":"5","label":"il cuore e il portatore del potere del"},
 		{"id":"273513d865103b90","fromNode":"d37358b3149abcc5","fromSide":"bottom","toNode":"f6db4ea08de45e62","toSide":"top","color":"4","label":"nutre"},
-		{"id":"756cc9f1c065db14","fromNode":"02fab85064f482c4","fromSide":"left","toNode":"b33960554363d68c","toSide":"right","label":"collegate alla triluna \"Dilimbabbar\""}
+		{"id":"756cc9f1c065db14","fromNode":"02fab85064f482c4","fromSide":"left","toNode":"b33960554363d68c","toSide":"right","toEnd":"none","color":"6","label":"collegate alla triluna \"Dilimbabbar\""}
 	]
 }
