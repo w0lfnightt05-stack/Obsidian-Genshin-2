@@ -73,7 +73,7 @@ Racconta la storia di una fata che abitava una sorgente di mondstat e che un bam
 - [ ] Sorgenti di giada nascosta
 - [ ] Prima incursione di Sundjatta
 - [ ] Kompore l'Astuto
-- [ ] Inni dell'Estremo Nord
+- [ ] [[Inni dell'Estremo Nord]]
 - [ ] Echi della conchiglia
 
 - [ ] Antologia del balletto astropolare
