@@ -1,2 +1,2 @@
 
-Conosciuti anche come: Il Primigenio, Phanes (nome proprio), Pitkamoonen.
+Conosciuti anche come: Il Primigenio (Primordial One), Phanes (nome proprio), Pitkamoonen.
