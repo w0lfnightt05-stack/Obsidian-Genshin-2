@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"0fffa369cfad99e2","type":"text","text":"La Guerra degli Archon (3600 ANNI FA - DIPENDE DALLA NAZIONE)","x":-160,"y":-280,"width":727,"height":50,"color":"1"},
+		{"id":"d28ebea7131549d3","type":"text","text":"[[4 L'Era degli Dei.canvas]]","x":63,"y":-40,"width":281,"height":60},
+		{"id":"281ee29262db983a","type":"text","text":"[[4 L'Era degli Dei.canvas]]","x":-360,"y":100,"width":281,"height":60,"color":"1"},
+		{"id":"8aa53a36e073ee7e","type":"text","text":"Ad un certo punto, dopo che [[Re Deshret]] condivise la sua ambizione di ribellarsi a [[Celestia]], Nabu Malikata rivelò i segreti sul Cielo, sulle Lune e sulla razza delle Seelie e accettò di assisterlo concedendogli un percorso per trovare \"conoscenza superiore\"(conoscenza proibita). Utilizzò anche le conoscenze su Celestia per cercare di creare Aaru, un dispositivo in grado di immagazzinare il Sonno d'Oro, un \"paradiso formato dalla convergenza di innumerevoli anime e menti\". Per costruirlo, Re Deshret aveva nominato una squadra di artigiani umani che alla fine persero la vita","x":-27,"y":100,"width":461,"height":420}
+	],
+	"edges":[
+		{"id":"78ad027b67877c5b","fromNode":"281ee29262db983a","fromSide":"right","toNode":"8aa53a36e073ee7e","toSide":"left","toEnd":"none","color":"1"},
+		{"id":"6670654428ac5cbd","fromNode":"d28ebea7131549d3","fromSide":"bottom","toNode":"8aa53a36e073ee7e","toSide":"top"}
+	]
+}

@@ -1,0 +1,36 @@
+{
+	"nodes":[
+		{"id":"87703a9f52181007","type":"text","text":"L'Era degli Dei (6000-3600 anni fa)","x":-160,"y":-440,"width":380,"height":50,"color":"1"},
+		{"id":"455f88dcfa5d666d","type":"text","text":"[[3 La guerra della Fiamma Funeraria e il Declino del GCU.canvas]]","x":-300,"y":-200,"width":660,"height":60},
+		{"id":"d54341fcb8914b18","type":"text","text":"Era in cui gli Dei, esseri divini fatti di energia elementare, iniziarono ad apparire in tutta Teyvat e a costruire le proprie civiltà","x":300,"y":-465,"width":460,"height":100},
+		{"id":"f70713f9f6157e96","type":"text","text":"La città più grande e prospera della sua civiltà era Gurabad, governata dal re vassallo Ormazd e da sua moglie, la Djinn Liloupar","x":217,"y":-60,"width":354,"height":130},
+		{"id":"946f818301ea9e55","type":"text","text":"Liloupar aiutò segretamente Shiruyeh, che assunse lo pseudonimo di \"Khorradim mascherato di ottone\". Riunì la gente comune oppressa che si trovava ad affrontare un divario economico a causa delle macchine Djinn utilizzate da Parvezravan per sostituire il loro lavoro, per organizzare una ribellione a Gurabad e prendere il trono di Parvezravan. Durante la ribellione, Liloupar usò il potere dell'Abisso e Gurabad cadde in un abisso nella terra","x":217,"y":230,"width":650,"height":223},
+		{"id":"7d32d48faf84a208","type":"text","text":"Parvezravan and Shirin si sposarono ed ebbero un figlio chiamato Shiruyeh che Kisra esilio' per via di una profezia detta da Liloupar","x":960,"y":230,"width":257,"height":223},
+		{"id":"d0ad8e5ba4da5e94","type":"text","text":"Ormazd e Liloupar ebbero una figlia di nome Shirin, e 300 figli, che furono assassinati, insieme ad Ormazd che era diventato un tiranno, da Shirin come complotto ideato da Liloupar per vendicarsi del Re per aver infranto le promesse che le aveva fatto","x":637,"y":-140,"width":323,"height":290},
+		{"id":"c207c8f313cd582a","type":"text","text":"Prima di morire, Ormazd aveva adottato un ragazzo di nome Kisra che ribattezzò Kisra Parvez. Dopo la sua morte, Kisra divenne re e si nomimò Parvezravan","x":960,"y":-140,"width":257,"height":290},
+		{"id":"8eb1c29dc4eed351","type":"text","text":"Re Deshret trovo' Gurabad in rovina e puni' Liloupar dividendo la sua anima in 7 frammenti, assegnati ad ognuno dei suoi Saggi a cui fu richiesto di nasconderli","x":-103,"y":217,"width":265,"height":250},
+		{"id":"80661c24c607eb92","type":"text","text":"Re Deshret inizio' a costruire la sua civilta'","x":-95,"y":-43,"width":250,"height":96},
+		{"id":"e8631eebb08c015d","type":"text","text":"[[5 La Guerra degli Archon.canvas]]","x":-103,"y":530,"width":265,"height":63,"color":"1"},
+		{"id":"50ca2c1584de9bad","type":"text","text":"In seguito incontrarono un angelo esiliato che attraversò il deserto per 42 giorni e 42 notti e dalle cui ferite, il sangue si trasformò in fiumi sui quali sarebbero cresciuti gigli, con al loro interno degli spiriti chiamati Djinn ","x":-923,"y":130,"width":340,"height":260},
+		{"id":"46e32f983712e477","type":"text","text":"Nabu Malikata, la  [[Dea dei Fiori]]","x":-923,"y":390,"width":340,"height":60},
+		{"id":"329dd6ecea31c7d1","type":"text","text":"Entrambi strinsero un patto con il Drago Sovrano: Apep avrebbe lasciato che Re Deshret costruisse sopra al suo dominio a costo di dover offrire il suo corpo ad Apep nel momento della sua morte in modo che potesse divorarlo e assorbire la sua conoscenza. Apep diede a Rukkhadevata un Seme di Fuoco che quest'ultimo avrebbe dovuto usare per curare Apep dalla Conoscenza Proibita","x":-543,"y":130,"width":340,"height":400},
+		{"id":"59c327e59e03d05b","type":"text","text":"[[3 La guerra della Fiamma Funeraria e il Declino del GCU.canvas]]","x":-843,"y":-61,"width":250,"height":131,"color":"4"},
+		{"id":"a604cbb012c52cae","type":"text","text":"Insieme condivisero il loro dominio sul territorio, arrivando persino a costruire una città dal loro legame, Ay-Khanoum. Durante questi anni, Re Deshret e Nabu Malikata diventarono particolarmente intimi","x":-923,"y":530,"width":340,"height":250},
+		{"id":"d04a672ac07b7b0b","type":"text","text":"Nella zona desertica dove risiedeva Apep, il territorio era condiviso da due dei: [[Sua Eccellenza Maggiore Rukkhadevata]] e il [[Re Deshret]]","x":-564,"y":-60,"width":383,"height":131}
+	],
+	"edges":[
+		{"id":"23bba5b021111397","fromNode":"455f88dcfa5d666d","fromSide":"bottom","toNode":"d04a672ac07b7b0b","toSide":"top"},
+		{"id":"44823b8abc08bea4","fromNode":"59c327e59e03d05b","fromSide":"right","toNode":"d04a672ac07b7b0b","toSide":"left","toEnd":"none","color":"4"},
+		{"id":"21053f91a4ccd432","fromNode":"d04a672ac07b7b0b","fromSide":"bottom","toNode":"329dd6ecea31c7d1","toSide":"top","color":"4"},
+		{"id":"4285a40d5e33f30f","fromNode":"329dd6ecea31c7d1","fromSide":"right","toNode":"80661c24c607eb92","toSide":"left","color":"4"},
+		{"id":"b2fe34dfcb358427","fromNode":"46e32f983712e477","fromSide":"bottom","toNode":"a604cbb012c52cae","toSide":"top","color":"4"},
+		{"id":"53b85899c861f9ab","fromNode":"329dd6ecea31c7d1","fromSide":"left","toNode":"50ca2c1584de9bad","toSide":"right","color":"4"},
+		{"id":"ab952299af164a1f","fromNode":"80661c24c607eb92","fromSide":"right","toNode":"f70713f9f6157e96","toSide":"left","color":"4"},
+		{"id":"40363d24c4d3c28b","fromNode":"f70713f9f6157e96","fromSide":"right","toNode":"d0ad8e5ba4da5e94","toSide":"left","color":"4"},
+		{"id":"ad38a3582ee84b55","fromNode":"c207c8f313cd582a","fromSide":"bottom","toNode":"7d32d48faf84a208","toSide":"top","color":"4"},
+		{"id":"2e34cb1137cdb05a","fromNode":"7d32d48faf84a208","fromSide":"left","toNode":"946f818301ea9e55","toSide":"right","color":"4"},
+		{"id":"3aea06d2685c2a70","fromNode":"946f818301ea9e55","fromSide":"left","toNode":"8eb1c29dc4eed351","toSide":"right","color":"4"},
+		{"id":"45bcd0f3af4f9b73","fromNode":"80661c24c607eb92","fromSide":"bottom","toNode":"8eb1c29dc4eed351","toSide":"top","color":"4"},
+		{"id":"80ae8aac50e29711","fromNode":"8eb1c29dc4eed351","fromSide":"bottom","toNode":"e8631eebb08c015d","toSide":"top","toEnd":"none","color":"1"}
+	]
+}
