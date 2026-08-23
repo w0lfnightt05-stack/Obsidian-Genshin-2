@@ -6,10 +6,10 @@
 		{"id":"cd54d64348c00147","type":"text","text":"nato da un \"uovo\" che usa dopo la guerra per rimodellare il Vecchio Mondo in un nuovo mondo chiamato [[Teyvat]]. ","x":-1080,"y":-147,"width":330,"height":154},
 		{"id":"fff2bb464eac6374","type":"text","text":"","x":-1540,"y":-107,"width":250,"height":60},
 		{"id":"b858ed22d3906efb","type":"text","text":"[[Le Quattro Ombre]]","x":-179,"y":80,"width":224,"height":60},
-		{"id":"4db64f0363e9e628","x":-378,"y":220,"width":250,"height":77,"color":"1","type":"text","text":"[[Ronova]], la Signora della Morte"},
-		{"id":"305bd7fb2e2b58a4","x":-6,"y":220,"width":250,"height":77,"color":"2","type":"text","text":"[[Asmoday]], la Signora dello Spazio"},
-		{"id":"b60a403a0686ab09","x":380,"y":220,"width":250,"height":77,"color":"6","type":"text","text":"[[Istaroth]], la Signora del Tempo"},
-		{"id":"db3b6ca5fa3f7563","type":"text","text":"[[Naberius]], la Signora della Vita","x":-780,"y":220,"width":250,"height":77,"color":"5"}
+		{"id":"4db64f0363e9e628","type":"text","text":"[[Ronova]], la Signora della Morte","x":-378,"y":220,"width":250,"height":77,"color":"1"},
+		{"id":"b60a403a0686ab09","type":"text","text":"[[Istaroth]], la Signora del Tempo","x":380,"y":220,"width":250,"height":77,"color":"6"},
+		{"id":"db3b6ca5fa3f7563","type":"text","text":"[[Naberius]], la Signora della Vita","x":-780,"y":220,"width":250,"height":77,"color":"5"},
+		{"id":"305bd7fb2e2b58a4","type":"text","text":"[[Asmoday]], la Signora dello Spazio","x":-6,"y":220,"width":250,"height":77,"color":"2"}
 	],
 	"edges":[
 		{"id":"1cfd8d102d42272e","fromNode":"43486301275d823d","fromSide":"bottom","toNode":"92e1d731aac45f09","toSide":"top","label":"minacciato dall'arrivo di"},
