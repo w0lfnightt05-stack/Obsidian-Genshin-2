@@ -29,7 +29,7 @@ Racconta la storia di una fata che abitava una sorgente di mondstat e che un bam
 - [x] [[La raccolta di Byakuyakoku]] 
 - [ ] Il crollo del Castello Sbiadito
 - [ ] Il Crononauta
-- [ ] Perinheri
+- [ ] [[Perinheri]] 
 - [ ] Anecdota Septentrionalis
 - [ ] Agenzia Gactotum
 - [ ] Maawe e Monetoo

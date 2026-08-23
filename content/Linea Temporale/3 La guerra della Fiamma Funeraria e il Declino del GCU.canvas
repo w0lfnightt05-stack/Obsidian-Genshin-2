@@ -17,7 +17,11 @@
 		{"id":"fc122fe5dc1779a8","type":"text","text":"Uno dei chiodi è caduto su Apep, non riuscendo ad ucciderla e trasformando la lussureggiante foresta in cui si trovava in un vasto deserto","x":-1450,"y":329,"width":200,"height":300},
 		{"id":"3ef924d9d4f2dbb4","type":"text","text":"[[4 L'Era degli Dei (6000-3000 anni fa).canvas]]","x":-1430,"y":669,"width":160,"height":180,"color":"4"},
 		{"id":"52a083b970407d13","type":"text","text":"","x":-1810,"y":329,"width":250,"height":60},
-		{"id":"54a61f8791b917b7","type":"text","text":"Le Sorelle della Luna discussero su chi seguire nella guerra, ma in breve tempo furono imprigionate e le loro vere lune furono usate come armi da Nibelung","x":-650,"y":199,"width":240,"height":260}
+		{"id":"54a61f8791b917b7","type":"text","text":"Ritenendo questo un atto di tradimento, i Principi Celesti frantumarono la Luna Eterna e la Luna Iridescente, mentre scagliarono la Luna Gelata oltre il Cielo Falso.","x":-677,"y":209,"width":295,"height":241},
+		{"id":"4683929acc7844a3","type":"text","text":"L'ombra della Luna Iridescente cadde nelle profondità del regno di Khaenri'ah, una nazione sotterranea senza Dio, e fu rianimata dall'Abisso per sopravvivere, diventando così la Luna Cremisi di Khaenri'ah","x":-260,"y":209,"width":330,"height":241},
+		{"id":"8121215a6fe8006b","type":"text","text":"La distruzione della Luna Eterna causo' lo sconvolgimento delle maree, il sollevamento dei mari e l'inondazione di tutto","x":-260,"y":450,"width":330,"height":164},
+		{"id":"b21ab81010206844","type":"text","text":"Aria e Sonnet si sono trasformate nei midolli lunari dopo essere stati nuovamente rilasciati a Teyvat grazie al paradosso temporale creato da [[Columbina]] nel presente","x":424,"y":355,"width":245,"height":262},
+		{"id":"bbf02e08202f1a66","type":"text","text":"Usata nei rituli per conferire agli alieni evocati da Khaenri'ah il suo potere durante il dominio della Dinastia della Luna Cremisi","x":144,"y":177,"width":245,"height":241}
 	],
 	"edges":[
 		{"id":"a7bae1f43cc236de","fromNode":"d39d1b157a47366c","fromSide":"right","toNode":"7170c464c591966b","toSide":"left","toEnd":"none","color":"#030303"},
@@ -34,8 +38,12 @@
 		{"id":"aff6c8a551ce4ac0","fromNode":"7170c464c591966b","fromSide":"bottom","toNode":"52a083b970407d13","toSide":"top"},
 		{"id":"ef73ffc9f252e82b","fromNode":"afd85570d21577b3","fromSide":"bottom","toNode":"82558bbaa20f02d0","toSide":"top","color":"3"},
 		{"id":"83a1f4c5f26297a8","fromNode":"82558bbaa20f02d0","fromSide":"bottom","toNode":"6e3d630eae4a97b1","toSide":"top","color":"3"},
-		{"id":"a25b1e7f6ab68cb7","fromNode":"5ec3a872f6febf21","fromSide":"bottom","toNode":"3f8ec0c2e21e2912","toSide":"top","color":"1"},
 		{"id":"7d5bfa68b75d81ea","fromNode":"82558bbaa20f02d0","fromSide":"left","toNode":"6e27ba4958a6d610","toSide":"right","toEnd":"none","color":"6"},
-		{"id":"3989d41674fc1bda","fromNode":"82558bbaa20f02d0","fromSide":"right","toNode":"54a61f8791b917b7","toSide":"left","color":"3"}
+		{"id":"415e2f4614c40e46","fromNode":"54a61f8791b917b7","fromSide":"right","toNode":"4683929acc7844a3","toSide":"left","color":"6"},
+		{"id":"a25b1e7f6ab68cb7","fromNode":"5ec3a872f6febf21","fromSide":"bottom","toNode":"3f8ec0c2e21e2912","toSide":"top","color":"1"},
+		{"id":"3989d41674fc1bda","fromNode":"82558bbaa20f02d0","fromSide":"right","toNode":"54a61f8791b917b7","toSide":"left","color":"6"},
+		{"id":"e8211058e02b54bd","fromNode":"4683929acc7844a3","fromSide":"right","toNode":"bbf02e08202f1a66","toSide":"left","color":"6"},
+		{"id":"06890a8bebf8d9a0","fromNode":"4683929acc7844a3","fromSide":"right","toNode":"b21ab81010206844","toSide":"left"},
+		{"id":"6bb6e39c43dc0965","fromNode":"8121215a6fe8006b","fromSide":"right","toNode":"b21ab81010206844","toSide":"left"}
 	]
 }
