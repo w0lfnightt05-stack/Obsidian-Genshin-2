@@ -4,17 +4,17 @@
 		{"id":"ae2544fba547f2f0","type":"text","text":"[[2 La conquista del Vecchio Mondo e la creazione di Teyvat.canvas]]","x":-280,"y":-120,"width":642,"height":60},
 		{"id":"9256fb07519d11ae","type":"text","text":"Gunnhldr guidò alcune persone fuori dalla tempesta di Decarabain e, mentre lottavano per sopravvivere alle bufere di neve di Andrius ([[Boreas]]), pregarono i Cieli. All'improvviso apparve un soffio di vento che fece amicizia con un bardo che usava la sua musica per radunare la gente e ribellarsi al tiranno.","x":-280,"y":280,"width":642,"height":180},
 		{"id":"0959f0b2ee558932","type":"text","text":"La ribellione fu presto guidata dal bardo Gunnhildr, un guerriero dai capelli rossi, dall'amante di Decarabain, Amos, e dal Soffio di Vento. Al momento della sua morte, Decarabian scatenò una tempesta distruttiva, ma fu fermato dal Bardo Senza Nome che si gettò al suo interno con la benedizione di [[Istaroth]], ottenuta dopo che la sua musica rubò uno sguardo alla Dea","x":-280,"y":460,"width":642,"height":200},
-		{"id":"3b54cb4a3955f946","type":"text","text":"[[4 L'Era degli Dei.canvas]]","x":-480,"y":75,"width":173,"height":77},
-		{"id":"6acfa736c3d81055","type":"text","text":"[[5 La Guerra degli Archon.canvas]]","x":-480,"y":300,"width":173,"height":140},
+		{"id":"3b54cb4a3955f946","type":"text","text":"[[4 L'Era degli Dei.canvas]]","x":-480,"y":75,"width":173,"height":77,"color":"4"},
+		{"id":"6acfa736c3d81055","type":"text","text":"[[5 La Guerra degli Archon.canvas]]","x":-480,"y":300,"width":173,"height":140,"color":"4"},
 		{"id":"efb111626c782946","type":"text","text":"Sopravvissuto alla distruzione di Arcadia, il Cavaliere del Ramo d'Oro, Gunnhildr, partì per la terra desolata ghiacciata alla ricerca del Ramo d'Oro per far resuscitare la sua terra natale. I sopravvissuti di Arcadia furono finalmente riuniti e guidati dal cavaliere, che ora era tornato alla Vecchia Mondstat, una città governata dal Dio della Tempesta [[Decarabian]], costruita attorno alla torre dove un tempo il drago malvagio fu abbattuto e circondato dalla bufera di neve provocata da Boreas. ","x":-280,"y":-13,"width":642,"height":253},
 		{"id":"483eaba5be8f4f67","type":"text","text":"Amos e il Bardo morirono durante la ribellione, ma poiché Boreas rinunciò alle sue ambizioni perché inadatto a governare l'umanità (tornò alla Corte delle Seelie dove dormì per mille anni), il Soffio di Vento divenne l'Archon di Anemo ([[Barbatos]]). Assunse quindi la forma del suo amico, il bardo, fermò le bufere di neve di Boreas e trasferì il suo popolo al lago Sicerae, dove fu costruito una nuova Mondstat governata dai clan Gunnhildr, Lawrence e Imunlaukr ","x":-280,"y":700,"width":642,"height":260},
 		{"id":"030c26842b38a416","type":"text","text":"Barbatos in seguito terraformò l'intera nazione tagliando le montagne; tra queste il temuto Pylos Peak divenne Scoglio di Musk e altre montagne finirono nel [[Mare Oscuro]] diventando le Isole di Haar (Arcipelago della Mela Dorata)","x":-280,"y":1000,"width":642,"height":140}
 	],
 	"edges":[
-		{"id":"9db84b19e56705a9","fromNode":"3b54cb4a3955f946","fromSide":"right","toNode":"efb111626c782946","toSide":"left","toEnd":"none"},
+		{"id":"9db84b19e56705a9","fromNode":"3b54cb4a3955f946","fromSide":"right","toNode":"efb111626c782946","toSide":"left","toEnd":"none","color":"4"},
 		{"id":"da67db1204d8b6f8","fromNode":"ae2544fba547f2f0","fromSide":"bottom","toNode":"efb111626c782946","toSide":"top"},
 		{"id":"82144f450f5956f6","fromNode":"efb111626c782946","fromSide":"bottom","toNode":"9256fb07519d11ae","toSide":"top"},
-		{"id":"e403a29b02ffcbc4","fromNode":"6acfa736c3d81055","fromSide":"right","toNode":"9256fb07519d11ae","toSide":"left","toEnd":"none"},
+		{"id":"e403a29b02ffcbc4","fromNode":"6acfa736c3d81055","fromSide":"right","toNode":"9256fb07519d11ae","toSide":"left","toEnd":"none","color":"4"},
 		{"id":"06c3f2bc96b74db6","fromNode":"0959f0b2ee558932","fromSide":"bottom","toNode":"483eaba5be8f4f67","toSide":"top"},
 		{"id":"2f13ba6c53cc6cb3","fromNode":"483eaba5be8f4f67","fromSide":"bottom","toNode":"030c26842b38a416","toSide":"top"}
 	]

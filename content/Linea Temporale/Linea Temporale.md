@@ -1,6 +1,4 @@
 
-https://app.mural.co/t/plasma8803/m/plasma8803/1771150527035/23c126edd0451e02999229d0b097428e90716c0d 
-Questo è un documento creato da altri utenti che spiega in dettaglio tutti gli avvenimenti. 
 
 
 ![[Pasted image 20260624155420.png]] 
