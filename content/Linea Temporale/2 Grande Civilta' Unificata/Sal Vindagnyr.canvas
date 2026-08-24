@@ -1,10 +1,16 @@
 {
 	"nodes":[
-		{"id":"e3bde7048e1ca594","x":-104,"y":-500,"width":250,"height":60,"color":"1","type":"text","text":"Sal Vindagnyr"},
-		{"id":"ce1fa7dd9884e281","x":-300,"y":-240,"width":642,"height":60,"type":"text","text":"[[2 La conquista del Vecchio Mondo e la creazione di Teyvat.canvas]]"},
-		{"id":"a34827bc259d2d7c","x":-300,"y":-120,"width":642,"height":348,"type":"text","text":""}
+		{"id":"e3bde7048e1ca594","type":"text","text":"Sal Vindagnyr","x":-104,"y":-500,"width":250,"height":60,"color":"1"},
+		{"id":"ce1fa7dd9884e281","type":"text","text":"[[2 La conquista del Vecchio Mondo e la creazione di Teyvat.canvas]]","x":-300,"y":-240,"width":642,"height":60},
+		{"id":"574fd39342c9a979","type":"text","text":"Un Chiodo Celeste cadde sulla cima di Sal Vindagnyr e si divise in tre frammenti, uno dei quali distrusse il ramo dell'Irminsul e causò il disordine delle [[Linee Geomantiche]]: un'eterna tempesta di neve congelò l'intera montagna e uccise tutti","x":-300,"y":100,"width":642,"height":140},
+		{"id":"a34827bc259d2d7c","type":"text","text":"Ci viveva una principessa capace di prevedere il futuro. È nata sotto un ramo dell'Irminsul. Ebbe una visione di un drago che distruggeva la montagna e la gente iniziò a interrogare i Cieli ma Celestia non diede mai loro una risposta","x":-300,"y":-100,"width":642,"height":140},
+		{"id":"038fc9afb4de1b1c","type":"text","text":"[[3 La guerra della Fiamma Funeraria e il Declino del GCU.canvas]]","x":-580,"y":100,"width":250,"height":140,"color":"4"},
+		{"id":"4d4edf7a99adbe54","type":"text","text":"Dopo la caduta del Chiodo Celeste, un eroe di nome Imunlaukr parti' alla ricerca per salvare il luogo. Tornato a mani vuote, trovo' tutti morti e la terra distrutta. Molto addolorato, Imunlaukr si separò dalla sua spada, l'Argento Astrale delle Nevi, e andò a cercare un posto dove combattere. La sua vita successiva è sconosciuta, ma ebbe discendenti che divennero il clan Imunlaukr.","x":-300,"y":300,"width":642,"height":223}
 	],
 	"edges":[
-		{"id":"cc77539131b9ae81","fromNode":"ce1fa7dd9884e281","fromSide":"bottom","toNode":"a34827bc259d2d7c","toSide":"top"}
+		{"id":"cc77539131b9ae81","fromNode":"ce1fa7dd9884e281","fromSide":"bottom","toNode":"a34827bc259d2d7c","toSide":"top"},
+		{"id":"2ddc5cb2a83718cf","fromNode":"038fc9afb4de1b1c","fromSide":"right","toNode":"574fd39342c9a979","toSide":"left","toEnd":"none","color":"4"},
+		{"id":"0027c47003ec7b3e","fromNode":"a34827bc259d2d7c","fromSide":"bottom","toNode":"574fd39342c9a979","toSide":"top"},
+		{"id":"e102f071263d987b","fromNode":"574fd39342c9a979","fromSide":"bottom","toNode":"4d4edf7a99adbe54","toSide":"top"}
 	]
 }
