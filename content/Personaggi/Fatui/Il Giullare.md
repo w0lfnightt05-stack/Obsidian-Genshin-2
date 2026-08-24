@@ -1,2 +1,2 @@
 
-Pierrot, il Primo dei Fatui. 
+Pierro, il Primo dei Fatui. 

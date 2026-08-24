@@ -2,12 +2,12 @@
 	"nodes":[
 		{"id":"930425775aab7f46","type":"text","text":"[[Nibelung]], Padre e Re dei Draghi e Sovrano del Vecchio Mondo","x":-40,"y":30,"width":360,"height":80,"color":"3"},
 		{"id":"1b78bce4fe2300c4","type":"text","text":"Il Vecchio Mondo","x":-340,"y":-25,"width":250,"height":60,"color":"#312f2f"},
-		{"id":"23974b3535be6529","type":"text","text":"The Voyager, uno che faceva parte dei [[Chroniclers]], incaricato di registrate tutte le civilta' morenti del cosmo. ","x":700,"y":25,"width":600,"height":90},
+		{"id":"23974b3535be6529","type":"text","text":"The Voyager ([[Anacharsis]]), faceva parte dei [[Chroniclers]], incaricato di registrate tutte le civilta' morenti del cosmo. ","x":660,"y":25,"width":576,"height":90},
 		{"id":"49d92c856c0a01ae","type":"text","text":"Parti e creo' tre dee per governare il mondo in sua assenza, aspettando il suo ritorno.","x":-549,"y":78,"width":419,"height":108},
 		{"id":"f9ea7339aa8b6917","type":"text","text":"L'ERA DEI DRAGHI E IL VECCHIO MONDO (8500 ANNI FA)","x":-157,"y":-200,"width":595,"height":50,"color":"1"},
 		{"id":"d37358b3149abcc5","type":"text","text":"Apep, il Drago Sovrano di Dendro","x":16,"y":365,"width":250,"height":77,"color":"4"},
 		{"id":"33be5a4c9a3e4641","type":"text","text":"Azdaha, il Drago di Geo","x":320,"y":365,"width":246,"height":77,"color":"2"},
-		{"id":"5f4e7c04184775f7","type":"text","text":"Altri Draghi. ","x":616,"y":365,"width":164,"height":74,"color":"6"},
+		{"id":"5f4e7c04184775f7","type":"text","text":"Altri Draghi. ","x":616,"y":365,"width":164,"height":77,"color":"6"},
 		{"id":"dcdaa7eabe114f54","type":"text","text":"Il Drago Sovrano di Hydro","x":-275,"y":365,"width":236,"height":77,"color":"5"},
 		{"id":"8e1e21b87bbe8382","type":"text","text":"Xiuhcoatl, il Drago Sovrano di Pyro","x":-560,"y":365,"width":252,"height":77,"color":"1"},
 		{"id":"72d0d57e7405b122","type":"text","text":"I Sette Draghi Sovrani","x":8,"y":164,"width":265,"height":60},
@@ -16,12 +16,12 @@
 		{"id":"a2bdde349f94aa3c","type":"text","text":"Citta' Sacra di [[Natlantea]] ","x":-733,"y":780,"width":277,"height":60},
 		{"id":"2a410d5efcafeb94","type":"text","text":"[[Mare Primordiale]], da dove ha avuto origine tutta la vita","x":-282,"y":640,"width":250,"height":100},
 		{"id":"f6db4ea08de45e62","type":"text","text":"Forme di vita Elementali dentro al suo corpo","x":16,"y":640,"width":250,"height":100},
-		{"id":"581b22abce138b9b","type":"text","text":"Draghi e dagli Elementosauri Abissali (Vishap).","x":-940,"y":-35,"width":320,"height":80},
 		{"id":"02fab85064f482c4","type":"text","text":"Le Tre Lune (Aria, Sonnet, Canon)","x":-835,"y":100,"width":230,"height":64},
-		{"id":"b33960554363d68c","type":"text","text":"[[Luna Eterna, Luna Iridescente e Luna Gelata.canvas]]","x":-1420,"y":72,"width":230,"height":120,"color":"6"}
+		{"id":"581b22abce138b9b","type":"text","text":"Era abitato da Draghi e dagli Elementosauri Abissali (Vishap).","x":-920,"y":-35,"width":360,"height":80},
+		{"id":"b33960554363d68c","type":"text","text":"[[Luna Eterna, Luna Iridescente e Luna Gelata.canvas]]","x":-1146,"y":245,"width":230,"height":120,"color":"6"}
 	],
 	"edges":[
-		{"id":"f602578b3400aa0e","fromNode":"1b78bce4fe2300c4","fromSide":"left","toNode":"581b22abce138b9b","toSide":"right","color":"#312f2f","label":"era abitato da"},
+		{"id":"f602578b3400aa0e","fromNode":"1b78bce4fe2300c4","fromSide":"left","toNode":"581b22abce138b9b","toSide":"right","color":"#312f2f"},
 		{"id":"3eb8486b54b3680a","fromNode":"930425775aab7f46","fromSide":"left","toNode":"1b78bce4fe2300c4","toSide":"right","color":"#312f2f"},
 		{"id":"d18e66f0ba269a5e","fromNode":"930425775aab7f46","fromSide":"right","toNode":"23974b3535be6529","toSide":"left","label":"E' stato avvertito della fine del mondo da"},
 		{"id":"35c49f982686960b","fromNode":"930425775aab7f46","fromSide":"left","toNode":"49d92c856c0a01ae","toSide":"right"},
@@ -37,6 +37,6 @@
 		{"id":"6c76306211127650","fromNode":"b8dbea426a9883e3","fromSide":"bottom","toNode":"a2bdde349f94aa3c","toSide":"top","color":"1","label":"con cui ha creato"},
 		{"id":"a1171c128304c964","fromNode":"dcdaa7eabe114f54","fromSide":"bottom","toNode":"2a410d5efcafeb94","toSide":"top","color":"5","label":"il cuore e il portatore del potere del"},
 		{"id":"273513d865103b90","fromNode":"d37358b3149abcc5","fromSide":"bottom","toNode":"f6db4ea08de45e62","toSide":"top","color":"4","label":"nutre"},
-		{"id":"756cc9f1c065db14","fromNode":"02fab85064f482c4","fromSide":"left","toNode":"b33960554363d68c","toSide":"right","toEnd":"none","color":"6","label":"collegate alla triluna \"Dilimbabbar\""}
+		{"id":"756cc9f1c065db14","fromNode":"02fab85064f482c4","fromSide":"left","toNode":"b33960554363d68c","toSide":"top","toEnd":"none","color":"6","label":"collegate alla triluna \"Dilimbabbar\""}
 	]
 }

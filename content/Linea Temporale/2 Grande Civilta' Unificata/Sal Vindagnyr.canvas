@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"e3bde7048e1ca594","x":-104,"y":-500,"width":250,"height":60,"color":"1","type":"text","text":"Sal Vindagnyr"},
+		{"id":"ce1fa7dd9884e281","x":-300,"y":-240,"width":642,"height":60,"type":"text","text":"[[2 La conquista del Vecchio Mondo e la creazione di Teyvat.canvas]]"},
+		{"id":"a34827bc259d2d7c","x":-300,"y":-120,"width":642,"height":348,"type":"text","text":""}
+	],
+	"edges":[
+		{"id":"cc77539131b9ae81","fromNode":"ce1fa7dd9884e281","fromSide":"bottom","toNode":"a34827bc259d2d7c","toSide":"top"}
+	]
+}

@@ -8,4 +8,4 @@ Sappiamo che si e' risvegliata prima di noi nella nostra navicella/asteroide.
 
 
 
-[[Requeim delle Profondita' Echeggianti]], portava un Inteyvat tra i capelli, il fiore di Khaenri'ha che simboleggia il viaggiatore lontano da casa. 
+[[Requeim delle Profondita' Echeggianti]], portava un Inteyvat tra i capelli, il fiore di Khaenri'ah che simboleggia il viaggiatore lontano da casa. 
