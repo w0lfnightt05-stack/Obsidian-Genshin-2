@@ -9,8 +9,9 @@
 		{"id":"87c35e1f9d7262f4","type":"text","text":"Rex Lapis ([[Morax]]) dreno' l'acqua dalle inondazioni portate dalla distruzione della Luna Eterna, protesse la gente del Forte Shanhui dal demone marino Baiqiu (che sconfisse) e fa amicizia con molti esseri elementali illuminati, gli [[Adepti]] (tra cui c'era Guhua) e altri Dei come Guizhong (la Dea della Polvere e progettista della Ghuizong Ballista) e Marchosius (il Dio della Stufa), istituendo infine l'Adunanza di Guili","x":440,"y":360,"width":720,"height":200},
 		{"id":"5f98fdad9379427b","type":"text","text":"Un Chiodo Celeste è caduto sul lato orientale di Lang-Gan mentre quello occidentale è stato colpito dal Carro Solare che ha creato la Voragine. In un atto di sfida al Cielo, cercò di fermare il Chiodo per far scappare il suo popolo, ma morì nel farlo. Al momento della sua morte, fu congelata nel tempo da [[Istaroth]] che conservò l'anima distrutta di Zibai e la collocò all'interno dei Tre Sé Mortali.","x":-303,"y":130,"width":660,"height":197},
 		{"id":"d8909c616df120e0","type":"text","text":"Rex Lapis benedi' alcuni Adepti trasformandoli in [[Guardiano Yaksha]] per purificare l'odio nato dagli Dei morti. Tra loro cinque Yaksha avevano una forza straordinaria: Alatus (che era stato salvato da una dea senza nome), Bosacius, Indarias, Bonanus e Menogias. Bonanus, Indarias e Menogias morirono successivamente durante la guerra (gli ultimi due si uccisero tra di loro)","x":-303,"y":580,"width":660,"height":223},
+		{"id":"e1b0e15df33277e7","type":"text","text":"Guizhong fu uccisa durante la guerra. Per evaquare le persone, Marchosius mise il suo potere nella terra e si divise in piccolissime versioni di se stesso, finche' non ne rimase soltanto una. Dopo il risveglio di Azdaha e i conseguenti terremoti causati da ogni suo movimento, Rex Lapis portò il drago in superficie e gli diede occhi e un corpo in cambio del suo aiuto nella guerra. Oltre alla [[Dea del Sale]], Havria, tradita e uccisa dal suo popolo a Sal Terrae, Rex Lapis sigillò [[Osayal]] nella Foresta di Pietra di Guyun e il Chi di Yore a Qingce, quest'ultimo fatto insieme a Ziqiao","x":-303,"y":840,"width":660,"height":300},
 		{"id":"bc64f90f99b56135","type":"text","text":"Il popolo che riuscì a sopravvivere alla distruzione di Lang-Gan fondò in seguito una civiltà nel nord chiamata Valle di Chenyu. La civiltà era governata da una Dea senza nome, dagli adepti Fujin e Herblord e il Suanni Lingyaun","x":-303,"y":380,"width":660,"height":140},
-		{"id":"e1b0e15df33277e7","type":"text","text":"Guizhong fu uccisa durante la guerra. Per evaquare le persone,","x":-320,"y":840,"width":660,"height":223}
+		{"id":"847419c2d6cf7ae7","type":"text","text":"Grazie alla benevolenza di Rex Lapis, Azdaha firmo' un contratto in cui non avrebbe mai attaccato l'umanita' o Liyue e se l'avesse fatto, sarebbe stato imprigionato sottoterra di nuovo. ","x":-1020,"y":940,"width":660,"height":100}
 	],
 	"edges":[
 		{"id":"4917712d0b92e88a","fromNode":"003129d9434a8f59","fromSide":"bottom","toNode":"e92d096f3f9950d0","toSide":"top"},
@@ -20,6 +21,8 @@
 		{"id":"c7a9a27a723d47f0","fromNode":"8f125d3aa9d9ce2b","fromSide":"bottom","toNode":"87c35e1f9d7262f4","toSide":"top"},
 		{"id":"8aa8736fefcd668e","fromNode":"75c47cf0e196aa8b","fromSide":"left","toNode":"87c35e1f9d7262f4","toSide":"right","toEnd":"none","color":"4"},
 		{"id":"0e15bfed59619d0f","fromNode":"bc64f90f99b56135","fromSide":"bottom","toNode":"d8909c616df120e0","toSide":"top"},
-		{"id":"da77a1fbe6be1b32","fromNode":"87c35e1f9d7262f4","fromSide":"bottom","toNode":"d8909c616df120e0","toSide":"right"}
+		{"id":"da77a1fbe6be1b32","fromNode":"87c35e1f9d7262f4","fromSide":"bottom","toNode":"d8909c616df120e0","toSide":"right"},
+		{"id":"16a4f42519906af2","fromNode":"d8909c616df120e0","fromSide":"bottom","toNode":"e1b0e15df33277e7","toSide":"top"},
+		{"id":"c78acd0e6efdc26c","fromNode":"e1b0e15df33277e7","fromSide":"left","toNode":"847419c2d6cf7ae7","toSide":"right"}
 	]
 }
