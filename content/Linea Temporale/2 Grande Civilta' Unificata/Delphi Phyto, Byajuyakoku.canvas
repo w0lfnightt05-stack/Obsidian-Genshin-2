@@ -1,1 +1,15 @@
-{}
+{
+	"nodes":[
+		{"id":"3ba87555d6792569","type":"text","text":"Delphi Phyto, Byakuyakoku","x":-123,"y":-188,"width":303,"height":60,"color":"1"},
+		{"id":"c20df0d898a549fa","type":"text","text":"[[2 La conquista del Vecchio Mondo e la creazione di Teyvat.canvas]]","x":-301,"y":52,"width":660,"height":60},
+		{"id":"7ad10eed73ffdad1","type":"text","text":"L'unica che aiutò la gente di Byakuyakoku fu [[Istaroth]], da loro chiamata Tokoyo Ookami. Diede l'illuminazione a un saggio di nome Abrax (allievo di Istoria) e lui costruì l'Helios/Dainichi Mikoshi, un sole artificiale per respingere completamente il Vishap","x":-301,"y":401,"width":660,"height":164},
+		{"id":"34b0ce0ad3292b3e","x":-571,"y":450,"width":228,"height":66,"type":"text","text":"[[La raccolta di Byakuyakoku]]"},
+		{"id":"d61cc7622d42c7c4","type":"text","text":"Fu inghiottito da una voragine durante la guerra e finì nel [[Mare Oscuro]] dove gli umani dovettero sopravvivere all'ira degli Eredi dei Draghi delle Profondita' (Vishap che scapparono nel Mare Oscuro). Loro sopravvissero grazie ad un saggio che si ricordo' del sole e forgio' delle torcie per spaventare i Vishap ma non ha ricevuto risposta mentre pregava i [[Principi Celesti]] per un aiuto","x":-301,"y":201,"width":660,"height":200},
+		{"id":"33a4cb4549f0e85f","type":"text","text":"Nobili corrotti successivamente stanziati ","x":483,"y":201,"width":660,"height":200}
+	],
+	"edges":[
+		{"id":"878fe016fb22ea55","fromNode":"c20df0d898a549fa","fromSide":"bottom","toNode":"d61cc7622d42c7c4","toSide":"top","color":"6"},
+		{"id":"c2ee65bda13294d2","fromNode":"34b0ce0ad3292b3e","fromSide":"right","toNode":"7ad10eed73ffdad1","toSide":"left","toEnd":"none"},
+		{"id":"2ef6959e7b530ccb","fromNode":"7ad10eed73ffdad1","fromSide":"right","toNode":"33a4cb4549f0e85f","toSide":"left","color":"6"}
+	]
+}
