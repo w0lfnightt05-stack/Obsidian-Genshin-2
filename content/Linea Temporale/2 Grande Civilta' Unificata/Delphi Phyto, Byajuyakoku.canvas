@@ -11,7 +11,7 @@
 		{"id":"15f27dff7c072dc5","type":"text","text":"La sua flotta, composta dal re vassallo Akou, il maestro di canto delle balene Mounn e la sua balena Daikengyou con sua sorella gemella Ayame, si scontrarono con l'esercito di Ei guidato dal suo amico tengu e generale, Sasayuri","x":-301,"y":1687,"width":660,"height":130},
 		{"id":"dcecce35518bd64e","type":"text","text":"[[Lang-Gan.canvas]]","x":-585,"y":1013,"width":242,"height":63,"color":"6"},
 		{"id":"34b0ce0ad3292b3e","type":"text","text":"[[La raccolta di Byakuyakoku]]","x":406,"y":1006,"width":170,"height":77},
-		{"id":"ba6758e2ac4061fe","type":"text","text":"[[]]","x":-56,"y":1894,"width":415,"height":77}
+		{"id":"ba6758e2ac4061fe","type":"text","text":"[[Il Regno delle Sabbie del Re sciocco.canvas]]","x":-95,"y":1864,"width":248,"height":77,"color":"3"}
 	],
 	"edges":[
 		{"id":"878fe016fb22ea55","fromNode":"c20df0d898a549fa","fromSide":"bottom","toNode":"d61cc7622d42c7c4","toSide":"top","color":"6"},

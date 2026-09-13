@@ -1,0 +1,28 @@
+{
+	"nodes":[
+		{"id":"e8209c904d8d8828","type":"text","text":"Il Regno delle Sabbie del Re sciocco","x":-180,"y":-262,"width":371,"height":60,"color":"1"},
+		{"id":"47157bc5a7de21e4","type":"text","text":"[[2 La conquista del Vecchio Mondo e la creazione di Teyvat.canvas]]","x":-332,"y":-22,"width":676,"height":60},
+		{"id":"8b2c529209d9e3fd","type":"text","text":"Regno che si estendeva attraverso l'intera massa continentale dell'antica Inazuma prima che fosse completamente allagata, trasformando la terra in un arcipelago. ","x":-332,"y":89,"width":676,"height":119},
+		{"id":"378e407f168feb4e","type":"text","text":"Il Sacred Sakura fu piantato nel passato per proteggere Inazuma dall'Abisso da Raiden Ei molto dopo grazie all'intervento di Raiden Makoto e Istaroth","x":406,"y":269,"width":676,"height":119},
+		{"id":"89ae8d57bc181ba6","type":"text","text":"La guerra fu vinta dopo 1600 anni dalle Kitsune che ricevettero' la proprieta' del Tempio in cima al Monte Yougou","x":-332,"y":388,"width":676,"height":79},
+		{"id":"e3be6439d62aaf43","type":"text","text":"([[4 L'Era degli Dei.canvas]]) Kitsune provenienti dalla terraferma arrivarono in queste terre e mossero guerra ai Tanuki, yokai locali, per la proprietà del Monte Yougou e del Sacred Sakura","x":-332,"y":269,"width":676,"height":119},
+		{"id":"fb3f48b56a73643a","type":"text","text":"([[5 La Guerra degli Archon.canvas]]) Verso l'inizio della [[Guerra degli Archon]], nacquero' due divinita' gemelle: Ei e Makoto. Ei era molto brava a combattere mentre Makoto era una sovrana migliore. Con la sua lancia e la sua tecnica segreta Mosou No Hitotachi, Ei conquisto' velocemente molti nemici e unifico' gli Yokai di Inazuma sotto una singola bandiera. Gli Yokai aiutarono a costruire una prosperosa citta' chiamata [[Inazuma]]","x":-1052,"y":537,"width":676,"height":224},
+		{"id":"c0b1f376135bb083","type":"text","text":"Durante la battaglia contro Orobashi, lui divoro' Sasayuri ma Ei uso' la Mosou no Hitotachi e lo uccise, tagliando Yashiori a meta' e creando Mosoujin Gorge","x":406,"y":567,"width":676,"height":96},
+		{"id":"5728b60a98010fed","type":"text","text":"[[La Vecchia civilta' dell'isola di Tsurumi.canvas]]","x":-145,"y":761,"width":302,"height":96,"color":"6"},
+		{"id":"70e630b63161c43a","type":"text","text":" Le Kitsune del clan Hakushin iniziarono ad usare il Grand Narukami Shrine per lavorare e tra gli dei uccisi da Ei c'era l'Uccello del Tuono. Lei costrui' anche le pietre della protezione per sopprimere il suo potere persistente che si manifestò come la Manifestazione del Tuono. ","x":-332,"y":567,"width":676,"height":164},
+		{"id":"289cc3841e7788d8","type":"text","text":"[[Delphi Phyto, Byajuyakoku.canvas]]","x":629,"y":442,"width":230,"height":96,"color":"6"},
+		{"id":"c230ffee2b2ec9f7","type":"text","text":"Il cadavere di Orobashi causo' Tatarigami ed Ei costruì dei santuari in tutta l'isola per sopprimerlo. Con tutti gli altri dei scomparsi, rimasero solo Ei e Makoto, ma Ei ([[Shogun Raiden]]) decise di sacrificarsi per lasciare che Makoto diventasse l'Archon di Electro. Makoto in seguito resuscitò sua sorella come sua kagemusha, una controfigura","x":406,"y":731,"width":676,"height":196}
+	],
+	"edges":[
+		{"id":"710cece420a90c7f","fromNode":"47157bc5a7de21e4","fromSide":"bottom","toNode":"8b2c529209d9e3fd","toSide":"top","color":"3"},
+		{"id":"b1560389af535ce0","fromNode":"8b2c529209d9e3fd","fromSide":"bottom","toNode":"e3be6439d62aaf43","toSide":"top","color":"3"},
+		{"id":"1dcb7530fb053446","fromNode":"e3be6439d62aaf43","fromSide":"right","toNode":"378e407f168feb4e","toSide":"left","toEnd":"none"},
+		{"id":"8e0273cbe95b9a11","fromNode":"e3be6439d62aaf43","fromSide":"bottom","toNode":"89ae8d57bc181ba6","toSide":"top","color":"3"},
+		{"id":"3243c11758194d8a","fromNode":"89ae8d57bc181ba6","fromSide":"bottom","toNode":"fb3f48b56a73643a","toSide":"top","color":"3"},
+		{"id":"3c86b3b5bb8a958a","fromNode":"fb3f48b56a73643a","fromSide":"right","toNode":"70e630b63161c43a","toSide":"left","color":"3"},
+		{"id":"71d9c8c090321e1f","fromNode":"70e630b63161c43a","fromSide":"bottom","toNode":"5728b60a98010fed","toSide":"top","toEnd":"none","color":"6"},
+		{"id":"7f3915b3240d77eb","fromNode":"c0b1f376135bb083","fromSide":"top","toNode":"289cc3841e7788d8","toSide":"bottom","toEnd":"none","color":"6"},
+		{"id":"cfc5c1e3e7e40d97","fromNode":"70e630b63161c43a","fromSide":"right","toNode":"c0b1f376135bb083","toSide":"left","color":"3"},
+		{"id":"9be001881d82890c","fromNode":"c0b1f376135bb083","fromSide":"bottom","toNode":"c230ffee2b2ec9f7","toSide":"top","color":"3"}
+	]
+}
