@@ -11,8 +11,8 @@
 		{"id":"5728b60a98010fed","type":"text","text":"[[La Vecchia civilta' dell'isola di Tsurumi.canvas]]","x":-145,"y":761,"width":302,"height":96,"color":"6"},
 		{"id":"70e630b63161c43a","type":"text","text":" Le Kitsune del clan Hakushin iniziarono ad usare il Grand Narukami Shrine per lavorare e tra gli dei uccisi da Ei c'era l'Uccello del Tuono. Lei costrui' anche le pietre della protezione per sopprimere il suo potere persistente che si manifestò come la Manifestazione del Tuono. ","x":-332,"y":567,"width":676,"height":164},
 		{"id":"289cc3841e7788d8","type":"text","text":"[[Delphi Phyto, Byajuyakoku.canvas]]","x":629,"y":442,"width":230,"height":96,"color":"6"},
-		{"id":"c230ffee2b2ec9f7","type":"text","text":"Il cadavere di Orobashi causo' Tatarigami ed Ei costruì dei santuari in tutta l'isola per sopprimerlo. Con tutti gli altri dei scomparsi, rimasero solo Ei e Makoto, ma Ei ([[Shogun Raiden]]) decise di sacrificarsi per lasciare che Makoto diventasse l'Archon di Electro. Makoto in seguito resuscitò sua sorella come sua kagemusha, una controfigura","x":406,"y":731,"width":676,"height":196},
-		{"id":"fb3f14248ba439de","type":"text","text":"","x":406,"y":1010,"width":676,"height":196}
+		{"id":"c230ffee2b2ec9f7","type":"text","text":"Il cadavere di Orobashi causo' Tatarigami ed Ei costruì dei santuari in tutta l'isola per sopprimerlo. Con tutti gli altri dei scomparsi, rimasero solo Ei e Makoto, ma Ei ([[Shogun Raiden]]) decise di sacrificarsi per lasciare che Makoto diventasse l'Archon di Electro. Makoto in seguito resuscitò sua sorella come sua kagemusha, ovvero la sua controfigura esterna","x":406,"y":731,"width":676,"height":196},
+		{"id":"fb3f14248ba439de","type":"text","text":"Mentre Makoto andava a combattere a Khaenri'ah, la marea abissale si avvicinava a Inazuma. L'intera nazione si preparò al disastro: il Grande Tengu Reinzenbou addestrò i Tre Yougou presso il Grande Santuario Narukami. ","x":406,"y":1010,"width":676,"height":196}
 	],
 	"edges":[
 		{"id":"710cece420a90c7f","fromNode":"47157bc5a7de21e4","fromSide":"bottom","toNode":"8b2c529209d9e3fd","toSide":"top","color":"3"},
