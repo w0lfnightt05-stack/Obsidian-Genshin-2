@@ -36,7 +36,9 @@
 		{"id":"61252fe0e20d8b60","type":"text","text":"Ochkan presto divenne un tiranno opprimendo i draghi, ora per lo piu' saurian innocui, a causa del suo passato, e proibiva alla gente di adorare il Night Kingdom. Alcuni decisero di unirsi all'Alleanza (Maghan e Ahpub, Yupanqui, quest'ultimo solo ufficialmente), altri no (Lianca e Ixquieh) e altri ancora la abbandonarono (Uenuku e Hineila)","x":522,"y":2030,"width":474,"height":276},
 		{"id":"fd536a8e0edebe68","type":"text","text":"All'epoca della Grand Alliance, un dio fungo di nome Bifrons fuggì da Sumeru verso Natlan per ritrovare le sue forze, ma fu sepolto vivo durante un'eruzione vulcanica. Ad un certo punto, il suo potere creò un ramo nel Chasm, chiamato Xamaran (Glowing Narrows)","x":1147,"y":2422,"width":474,"height":196},
 		{"id":"c1dda0d4a6bd56b1","type":"text","text":"2000 anni fa, l'undicesimo Dragonlord sopravvisse alla guerra ma maturò un malfunzionamento dovuto al suo desiderio di trovare un nuovo posto a cui appartenere. Lianca e Ixquieh servirono la sua coscienza e, anche se la parte vendicativa cercò di ingannarli, Lianca vide oltre il suo complotto e sigillò il lato malevolo","x":635,"y":2422,"width":474,"height":254},
-		{"id":"3c1044f185a6c579","type":"text","text":"Reclutò gli operai per prosciugare le rovine sotterranee di Ochkanatlan, dove trovò Ixlel (9th Dragonlord), che utilizzò come fonte di energia. Tentò anche di bruciare vivi gli operai per nascondere la verità, ma Manque sopravvisse","x":103,"y":2422,"width":474,"height":254}
+		{"id":"3c1044f185a6c579","type":"text","text":"Reclutò gli operai per prosciugare le rovine sotterranee di Ochkanatlan, dove trovò Ixlel (9th Dragonlord), che utilizzò come fonte di energia. Tentò anche di bruciare vivi gli operai per nascondere la verità, ma Manqu sopravvisse","x":103,"y":2422,"width":489,"height":204},
+		{"id":"db6e94edfc40741f","type":"text","text":"Ixlel divenne provocatorio nei confronti di Ochkan, che si ritrovò a costruire una nuova fonte di energia, il Core of Chu'ulel con il suo aspetto draconico e ci mise all'interno la sua mente. Manqu si confronto' con Sakkuk (Capo dei Children of Echoes il cui padre fu ucciso dall'esercito di Ochkan), il Scarlet Eyed Youth,  Atawallpa e Waskur gemelli, e Yupanqui e idearono un piano per ribellarsi al tiranno","x":103,"y":2676,"width":489,"height":280},
+		{"id":"9d25ae99d798514f","type":"text","text":"Manqu, Sakkuk e i gemelli spensero la fonte di energia alternativa della città, mentre Yupanqui ottenne la Gioventù dagli Occhi Scarlatti prima di Ochkan. Il tiranno uccise Yupanqui con Turnfire e la Gioventù dagli Occhi Scarlatti ascese all'Arcontato e bruciò l'intera città; alla fine Ochkan sopravvisse. Sakkuk e il Giovane dagli Occhi Scarlatti sopravvissero e quest'ultimo chiese alla ragazza di cancellare il suo nome dalla storia, prima di partire","x":103,"y":2999,"width":489,"height":345}
 	],
 	"edges":[
 		{"id":"93cddc76277ec2fd","fromNode":"d28ebea7131549d3","fromSide":"bottom","toNode":"dbe140525d234efd","toSide":"right","color":"3"},
@@ -67,6 +69,8 @@
 		{"id":"e7d72af408e0943b","fromNode":"bae3baf6fb4157d5","fromSide":"bottom","toNode":"c1dda0d4a6bd56b1","toSide":"top"},
 		{"id":"7072a0c3bb0a2774","fromNode":"bae3baf6fb4157d5","fromSide":"bottom","toNode":"3c1044f185a6c579","toSide":"top"},
 		{"id":"d71cc1ddf0414445","fromNode":"c1dda0d4a6bd56b1","fromSide":"bottom","toNode":"ceb66b171d5546bb","toSide":"top"},
-		{"id":"074ef305c1a996ae","fromNode":"bae3baf6fb4157d5","fromSide":"bottom","toNode":"fd536a8e0edebe68","toSide":"top"}
+		{"id":"074ef305c1a996ae","fromNode":"bae3baf6fb4157d5","fromSide":"bottom","toNode":"fd536a8e0edebe68","toSide":"top"},
+		{"id":"62c11970894bcca4","fromNode":"3c1044f185a6c579","fromSide":"bottom","toNode":"db6e94edfc40741f","toSide":"top"},
+		{"id":"3f4058f0e05b8422","fromNode":"db6e94edfc40741f","fromSide":"bottom","toNode":"9d25ae99d798514f","toSide":"top"}
 	]
 }
