@@ -2,7 +2,7 @@
 [[Liyue]]
 
 ### Un Incontro Inaspettato nelle Profondita'
-Katherine ci dice di andare alla Voragine che c'e' un tipo che ha una missione per noi. Capiamo che c'entra l'[[Abisso]] e quindi decidiamo di accettare l'incarico. Entrati nella Voragine spunta [[Dainsleif]] che sta cercando un altro [[Apostolo dell'Abisso]]. Ci dice che nella Voragine le maledizioni si affievoliscono (torna con la quest di Xiao). Ci dice che gli Hilichurl si stanno comportando in modo strano perche' nonostante siano maledetti con la [[Maledizione dell'Immortalita']], la loro anime viene erosa talmente tanto da "morire" e la Voragine che affievolisce le maledizioni e' un posto perfetto.
+Katherine ci dice di andare alla Voragine che c'e' un tipo che ha una missione per noi. Capiamo che c'entra l'[[Abyss]] e quindi decidiamo di accettare l'incarico. Entrati nella Voragine spunta [[Dainsleif]] che sta cercando un altro [[Apostolo dell'Abisso]]. Ci dice che nella Voragine le maledizioni si affievoliscono (torna con la quest di Xiao). Ci dice che gli Hilichurl si stanno comportando in modo strano perche' nonostante siano maledetti con la [[Maledizione dell'Immortalita']], la loro anime viene erosa talmente tanto da "morire" e la Voragine che affievolisce le maledizioni e' un posto perfetto.
 
 
 ### Il Sepolcro Protetto

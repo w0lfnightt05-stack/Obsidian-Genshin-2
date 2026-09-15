@@ -17,9 +17,9 @@ Dopo che Abrax fu incarcerato, il popolo nomino' il Figlio del Sole come loro ca
 #### VOLUME 2
 *Prima del sole e della luna* 
 
-Quando il trono dei cieli arrivò, il vero signore, il Primigenio ([[Principi Celesti]]) venne per combattere i Sette Terribili Sovrani ([[Thirteen Dragonlords]]), ovvero i signori dei draghi del vecchio mondo. Il Primigenio creò delle Ombre Splendenti ([[Le Quattro Ombre]]) di se stesso. 
+Quando il trono dei cieli arrivò, il vero signore, il Primigenio ([[Heavenly Principles]]) venne per combattere i Sette Terribili Sovrani ([[Thirteen Dragonlords]]), ovvero i signori dei draghi del vecchio mondo. Il Primigenio creò delle Ombre Splendenti ([[Le Quattro Ombre]]) di se stesso. 
 
-Il Primigenio deve essere stato Phanes ([[Principi Celesti]]). Aveva ali e una corona. Nacque da un uovo di natura androgina. Ma affinché il mondo fosse creato, il guscio d'uovo doveva essere rotto, ma Phanes usò il guscio ([[Fake Sky]]) per separare l'universo ([[Mare di Stelle]]) e [[Teyvat]]. 
+Il Primigenio deve essere stato Phanes ([[Heavenly Principles]]). Aveva ali e una corona. Nacque da un uovo di natura androgina. Ma affinché il mondo fosse creato, il guscio d'uovo doveva essere rotto, ma Phanes usò il guscio ([[Fake Sky]]) per separare l'universo ([[Sea of Stars]]) e [[Teyvat]]. 
 
 Dopo 40 anni, i Sette Terribili Sovrani furono sconfitti e si sottomisero ai cieli. Così il Primigenio iniziò la creazione del cielo e della terra.
 

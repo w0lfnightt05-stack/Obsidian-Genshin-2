@@ -1,2 +1,2 @@
 
-Fa parte dell'ordine dell'[[Abisso]]. Molti [[Hilichurl]] prendono ordini da loro. 
+Fa parte dell'ordine dell'[[Abyss]]. Molti [[Hilichurl]] prendono ordini da loro. 
