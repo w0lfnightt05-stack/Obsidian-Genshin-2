@@ -2,23 +2,23 @@
 	"nodes":[
 		{"id":"930425775aab7f46","type":"text","text":"[[Nibelung]], Padre e Re dei Draghi e Sovrano del Vecchio Mondo","x":-40,"y":30,"width":360,"height":80,"color":"3"},
 		{"id":"1b78bce4fe2300c4","type":"text","text":"Il Vecchio Mondo","x":-340,"y":-25,"width":250,"height":60,"color":"#312f2f"},
-		{"id":"49d92c856c0a01ae","type":"text","text":"Parti e creo' tre dee per governare il mondo in sua assenza, aspettando il suo ritorno.","x":-549,"y":78,"width":419,"height":108},
-		{"id":"f9ea7339aa8b6917","type":"text","text":"L'ERA DEI DRAGHI E IL VECCHIO MONDO (8500 ANNI FA)","x":-157,"y":-200,"width":595,"height":50,"color":"1"},
+		{"id":"49d92c856c0a01ae","type":"text","text":"Parti e creo' tre dee per governare il mondo in sua assenza, aspettando il suo ritorno","x":-549,"y":78,"width":419,"height":108},
+		{"id":"f9ea7339aa8b6917","type":"text","text":"L'era dei Draghi e il Vecchio Mondo (8500 ANNI FA)","x":-157,"y":-200,"width":595,"height":50,"color":"1"},
 		{"id":"d37358b3149abcc5","type":"text","text":"Apep, il Drago Sovrano di Dendro","x":16,"y":365,"width":250,"height":77,"color":"4"},
 		{"id":"33be5a4c9a3e4641","type":"text","text":"Azdaha, il Drago di Geo","x":320,"y":365,"width":246,"height":77,"color":"2"},
 		{"id":"5f4e7c04184775f7","type":"text","text":"Altri Draghi. ","x":616,"y":365,"width":164,"height":77,"color":"6"},
-		{"id":"dcdaa7eabe114f54","type":"text","text":"Il Drago Sovrano di Hydro","x":-275,"y":365,"width":236,"height":77,"color":"5"},
 		{"id":"8e1e21b87bbe8382","type":"text","text":"Xiuhcoatl, il Drago Sovrano di Pyro","x":-560,"y":365,"width":252,"height":77,"color":"1"},
 		{"id":"72d0d57e7405b122","type":"text","text":"I Sette Draghi Sovrani","x":8,"y":164,"width":265,"height":60},
-		{"id":"11ff170f06fae1c9","type":"text","text":"[[Kukulkan]], il Drago Principe e suo fratello","x":-1031,"y":404,"width":311,"height":96},
-		{"id":"b8dbea426a9883e3","type":"text","text":"[[Fuoco Primordiale]]","x":-720,"y":580,"width":250,"height":60},
-		{"id":"a2bdde349f94aa3c","type":"text","text":"Citta' Sacra di [[Natlantea]] ","x":-733,"y":780,"width":277,"height":60},
-		{"id":"2a410d5efcafeb94","type":"text","text":"Il cuore e il portatore del potere del [[Mare Primordiale]], da dove ha avuto origine tutta la vita","x":-282,"y":640,"width":250,"height":170},
-		{"id":"f6db4ea08de45e62","type":"text","text":"Nutre forme di vita Elementali dentro al suo corpo","x":16,"y":640,"width":250,"height":100},
-		{"id":"02fab85064f482c4","type":"text","text":"Le Tre Lune (Aria, Sonnet, Canon) collegate alla triluna \"Dilimbabbar\"","x":-906,"y":78,"width":301,"height":108},
-		{"id":"23974b3535be6529","type":"text","text":"E' stato avvertito della fine del mondo da The Voyager     ([[Anacharsis]]), faceva parte dei [[Chroniclers]], incaricato di registrate tutte le civilta' morenti del cosmo. ","x":566,"y":30,"width":576,"height":109},
+		{"id":"02fab85064f482c4","type":"text","text":"Le Moon Sisters (Aria, Sonnet, Canon) collegate alla triluna \"Dilimbabbar\"","x":-906,"y":78,"width":301,"height":108},
 		{"id":"581b22abce138b9b","type":"text","text":"Era abitato da Draghi e dai Vishap","x":-906,"y":-25,"width":373,"height":60},
-		{"id":"b33960554363d68c","type":"text","text":"[[Luna Eterna, Luna Iridescente e Luna Gelata.canvas]]","x":-1146,"y":212,"width":230,"height":120,"color":"6"}
+		{"id":"f6db4ea08de45e62","type":"text","text":"Nutre forme di vita Elementali dentro al suo corpo","x":16,"y":550,"width":250,"height":100},
+		{"id":"23974b3535be6529","type":"text","text":"E' stato avvertito della fine del mondo da The Voyager     ([[Anacharsis]]), faceva parte dei [[Chroniclers]], incaricato di registrate tutte le civilta' morenti del cosmo. ","x":492,"y":30,"width":576,"height":109},
+		{"id":"b8dbea426a9883e3","type":"text","text":"Nato dal e brandisce [[Fuoco Primordiale]] con cui ha creato Citta' Sacra di [[Natlantea]] ","x":-560,"y":550,"width":252,"height":170},
+		{"id":"5fb5c0bafe807937","type":"text","text":"Natlantea inizio' ad essere la nazione comandata da lui e dai [[Thirteen Dragonlords]]","x":-878,"y":550,"width":232,"height":170},
+		{"id":"11ff170f06fae1c9","type":"text","text":"Ha creato [[Kukulkan]], il Drago Principe e suo fratello","x":-878,"y":404,"width":232,"height":96},
+		{"id":"b33960554363d68c","type":"text","text":"[[Luna Eterna, Luna Iridescente e Luna Gelata.canvas]]","x":-1183,"y":78,"width":240,"height":108,"color":"6"},
+		{"id":"dcdaa7eabe114f54","type":"text","text":"Il Drago Sovrano di Hydro","x":-262,"y":365,"width":236,"height":77,"color":"5"},
+		{"id":"2a410d5efcafeb94","type":"text","text":"Il cuore e il portatore del potere del [[Primordial Sea]], da dove ha avuto origine tutta la vita","x":-262,"y":550,"width":236,"height":170}
 	],
 	"edges":[
 		{"id":"f602578b3400aa0e","fromNode":"1b78bce4fe2300c4","fromSide":"left","toNode":"581b22abce138b9b","toSide":"right","color":"#312f2f"},
@@ -32,11 +32,11 @@
 		{"id":"b12dbea56d5601e1","fromNode":"72d0d57e7405b122","fromSide":"bottom","toNode":"d37358b3149abcc5","toSide":"top","color":"4"},
 		{"id":"c5411a7ca36d6d86","fromNode":"72d0d57e7405b122","fromSide":"bottom","toNode":"33be5a4c9a3e4641","toSide":"top","color":"2"},
 		{"id":"6745c6f0e583adb8","fromNode":"72d0d57e7405b122","fromSide":"bottom","toNode":"5f4e7c04184775f7","toSide":"top","color":"6"},
-		{"id":"1364f746f28890d8","fromNode":"8e1e21b87bbe8382","fromSide":"left","toNode":"11ff170f06fae1c9","toSide":"right","color":"1","label":"ha creato"},
-		{"id":"82d9f49fcfd6b1a6","fromNode":"8e1e21b87bbe8382","fromSide":"bottom","toNode":"b8dbea426a9883e3","toSide":"top","color":"1","label":"nato dal e brandisce"},
-		{"id":"6c76306211127650","fromNode":"b8dbea426a9883e3","fromSide":"bottom","toNode":"a2bdde349f94aa3c","toSide":"top","color":"1","label":"con cui ha creato"},
+		{"id":"1364f746f28890d8","fromNode":"8e1e21b87bbe8382","fromSide":"left","toNode":"11ff170f06fae1c9","toSide":"right","color":"1"},
+		{"id":"82d9f49fcfd6b1a6","fromNode":"8e1e21b87bbe8382","fromSide":"bottom","toNode":"b8dbea426a9883e3","toSide":"top","color":"1"},
 		{"id":"a1171c128304c964","fromNode":"dcdaa7eabe114f54","fromSide":"bottom","toNode":"2a410d5efcafeb94","toSide":"top","color":"5"},
 		{"id":"273513d865103b90","fromNode":"d37358b3149abcc5","fromSide":"bottom","toNode":"f6db4ea08de45e62","toSide":"top","color":"4"},
-		{"id":"756cc9f1c065db14","fromNode":"02fab85064f482c4","fromSide":"left","toNode":"b33960554363d68c","toSide":"top","toEnd":"none","color":"6"}
+		{"id":"756cc9f1c065db14","fromNode":"02fab85064f482c4","fromSide":"left","toNode":"b33960554363d68c","toSide":"right","toEnd":"none","color":"6"},
+		{"id":"a5e4b822c53c1754","fromNode":"b8dbea426a9883e3","fromSide":"left","toNode":"5fb5c0bafe807937","toSide":"right","color":"1"}
 	]
 }

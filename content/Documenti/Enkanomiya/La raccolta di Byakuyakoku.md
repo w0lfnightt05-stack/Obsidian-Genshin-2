@@ -17,13 +17,13 @@ Dopo che Abrax fu incarcerato, il popolo nomino' il Figlio del Sole come loro ca
 #### VOLUME 2
 *Prima del sole e della luna* 
 
-Quando il trono dei cieli arrivò, il vero signore, il Primigenio ([[Principi Celesti]]) venne per combattere i Sette Terribili Sovrani ([[Tredici Signori Sovrani]]), ovvero i signori dei draghi del vecchio mondo. Il Primigenio creò delle Ombre Splendenti ([[Le Quattro Ombre]]) di se stesso. 
+Quando il trono dei cieli arrivò, il vero signore, il Primigenio ([[Principi Celesti]]) venne per combattere i Sette Terribili Sovrani ([[Thirteen Dragonlords]]), ovvero i signori dei draghi del vecchio mondo. Il Primigenio creò delle Ombre Splendenti ([[Le Quattro Ombre]]) di se stesso. 
 
-Il Primigenio deve essere stato Phanes ([[Principi Celesti]]). Aveva ali e una corona. Nacque da un uovo di natura androgina. Ma affinché il mondo fosse creato, il guscio d'uovo doveva essere rotto, ma Phanes usò il guscio ([[Cielo Falso]]) per separare l'universo ([[Mare di Stelle]]) e [[Teyvat]]. 
+Il Primigenio deve essere stato Phanes ([[Principi Celesti]]). Aveva ali e una corona. Nacque da un uovo di natura androgina. Ma affinché il mondo fosse creato, il guscio d'uovo doveva essere rotto, ma Phanes usò il guscio ([[Fake Sky]]) per separare l'universo ([[Mare di Stelle]]) e [[Teyvat]]. 
 
 Dopo 40 anni, i Sette Terribili Sovrani furono sconfitti e si sottomisero ai cieli. Così il Primigenio iniziò la creazione del cielo e della terra.
 
-Quattrocento anni dopo furono create le montagne e i fiumi, e i mari e gli oceani ([[Mare Oscuro]]) accolse i ribelli e chi non voleva inginocchiarsi a loro. Il Primigenio e una delle sue ombre ([[Naberius]]) crearono uccelli, bestie, pesci, erba, fiori e umani. Numerosissimi come le stelle nel cielo, strinsero un patto con il Primigenio ed entrarono così in una nuova era. 
+Quattrocento anni dopo furono create le montagne e i fiumi, e i mari e gli oceani ([[Dark Sea]]) accolse i ribelli e chi non voleva inginocchiarsi a loro. Il Primigenio e una delle sue ombre ([[Naberius]]) crearono uccelli, bestie, pesci, erba, fiori e umani. Numerosissimi come le stelle nel cielo, strinsero un patto con il Primigenio ed entrarono così in una nuova era. 
 
 Il Primigenio aveva un piano sacro per gli umani.
 

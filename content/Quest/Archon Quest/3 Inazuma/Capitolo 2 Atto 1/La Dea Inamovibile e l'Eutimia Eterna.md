@@ -12,7 +12,7 @@ Per uscire ci rivolgiamo a Hiiragi Shinsuke, il commissario Kanjou e capo del cl
 
 
 ### Tre Desideri
-Entriamo alla Sala da te Komore e troviamo Thoma che ci vuole fare incontrare Ayaka, ma prima ci vuole portare in un posto, ovvero la Statua della Divinita' Onnipresente. Ci mostra la statua che ha incastonate delle [[Visione]] rubate dal Decreto di Caccia alle Visioni. Secondo Thoma, la shogun Raiden sta prendendo le Visioni in quanto possono permettere di cambiare, cosa che va contro la sua idea di Eternita'. Quando tocchiamo la Statua sentiamo le voci delle persone nelle visioni, le loro ambizioni. Andiamo da Ayaka che ci vorrebbe spiegare come cercare di salvare Inazuma ma noi non siamo interessati a una rivoluzione. Alche' lei ci chiede 3 favori e che alla soddisfazione di essi, ci presentera' la Shogun Rainden. Bisogna aiutare 3 persone che hanno perso le loro Visioni.
+Entriamo alla Sala da te Komore e troviamo Thoma che ci vuole fare incontrare Ayaka, ma prima ci vuole portare in un posto, ovvero la Statua della Divinita' Onnipresente. Ci mostra la statua che ha incastonate delle [[Vision]] rubate dal Decreto di Caccia alle Visioni. Secondo Thoma, la shogun Raiden sta prendendo le Visioni in quanto possono permettere di cambiare, cosa che va contro la sua idea di Eternita'. Quando tocchiamo la Statua sentiamo le voci delle persone nelle visioni, le loro ambizioni. Andiamo da Ayaka che ci vorrebbe spiegare come cercare di salvare Inazuma ma noi non siamo interessati a una rivoluzione. Alche' lei ci chiede 3 favori e che alla soddisfazione di essi, ci presentera' la Shogun Rainden. Bisogna aiutare 3 persone che hanno perso le loro Visioni.
 
 
 ### L'utilita' dell'Inutile Attesa

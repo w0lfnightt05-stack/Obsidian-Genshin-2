@@ -1,7 +1,7 @@
 
 ### Ombre su Mondstat
 
-Torniamo da Jean che sta parlando con Anastasia, una dei [[Fatui]], che sta cercando di sistemare il problema di Mondstat ovviamente per essere in credito. Anastasia se ne va e Jean ci spiega come la delegazione di [[Snezhnaya]] stiano mettendo troppa pressione (Paimon sapeva anche delle altre Regioni in quanto cita [[Inazuma]] e [[Liyue]]). Jean sa che i Fatui vogliono il potere di Anemo per i loro scopi. Insieme a Jean e Lisa, mostriamo il Cristallo trovato nella foresta, Lisa nota delle impurita'. Si voleva lasciare a lei per delle ricerche ma sembra che il cristallo reagisca alle [[Visione]]. Ci riprendiamo il cristallo perche' a noi non da problemi. Jean ci nomina [[Cavaliere Onorario di Favonius]]. 
+Torniamo da Jean che sta parlando con Anastasia, una dei [[Fatui]], che sta cercando di sistemare il problema di Mondstat ovviamente per essere in credito. Anastasia se ne va e Jean ci spiega come la delegazione di [[Snezhnaya]] stiano mettendo troppa pressione (Paimon sapeva anche delle altre Regioni in quanto cita [[Inazuma]] e [[Liyue]]). Jean sa che i Fatui vogliono il potere di Anemo per i loro scopi. Insieme a Jean e Lisa, mostriamo il Cristallo trovato nella foresta, Lisa nota delle impurita'. Si voleva lasciare a lei per delle ricerche ma sembra che il cristallo reagisca alle [[Vision]]. Ci riprendiamo il cristallo perche' a noi non da problemi. Jean ci nomina [[Cavaliere Onorario di Favonius]]. 
 
 
 ### Incontro Inaspettato

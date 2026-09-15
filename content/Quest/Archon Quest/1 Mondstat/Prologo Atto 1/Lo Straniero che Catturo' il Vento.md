@@ -28,7 +28,7 @@ Amber ci presenta [[Kaeya]] e poi andiamo al Quartier Generale.
 
 
 ### 8 Cavalieri di Favonius
-Ci si incontra con [[Jean]] e ci presenta [[Lisa]], che ci parla di come le [[Linee Geomantiche]] e la [[Sfera elementale]] di Mondstat siano incasinate. Le fonti del potere di Dvalin si trovano nelle rovine dei [[Templi dei Quattro Venti]]. Dobbiamo distruggerne 3 su 4.
+Ci si incontra con [[Jean]] e ci presenta [[Lisa]], che ci parla di come le [[Ley Lines]] e la [[Sfera elementale]] di Mondstat siano incasinate. Le fonti del potere di Dvalin si trovano nelle rovine dei [[Templi dei Quattro Venti]]. Dobbiamo distruggerne 3 su 4.
 
 
 ### 9 Venti del Passato
@@ -36,10 +36,10 @@ Amber ci aspetta al [[Tempio del Falco]]. Esploriamo il tempio e riusciamo a dis
 
 
 ### 10 Corso Intensivo
-Kaeya ci aspetta al [[Tempio del Lupo]]. Kaeya nota che non abbiamo una [[Visione]] e si chiede come riusciamo ad incanalare l'energia elementale. Distruggiamo il **Cristallo di Terrore Alato**. 
+Kaeya ci aspetta al [[Tempio del Lupo]]. Kaeya nota che non abbiamo una [[Vision]] e si chiede come riusciamo ad incanalare l'energia elementale. Distruggiamo il **Cristallo di Terrore Alato**. 
 
 
 ### 11 Scintille tra le Pagine
-Lisa ci aspetta al [[Tempio del Leone]]. Chiediamo a Lisa di parlarci della sua [[Visione]] e ci racconta cose. Distruggiamo il **Cristallo di Terrore Alato**. Usciti ci spiega quali sono i [[Quattro Venti]] affiliati a [[Barbatos]]. Ci parla anche di come Dvalin sia diventato Terrore Alato per colpa dell'odio inspiegabile. Paimon ci spiega cosa sono gli [[Anemoculi]] ed e' incuriosita su come reagiranno gli Dei donandoglieli. 
+Lisa ci aspetta al [[Tempio del Leone]]. Chiediamo a Lisa di parlarci della sua [[Vision]] e ci racconta cose. Distruggiamo il **Cristallo di Terrore Alato**. Usciti ci spiega quali sono i [[Quattro Venti]] affiliati a [[Barbatos]]. Ci parla anche di come Dvalin sia diventato Terrore Alato per colpa dell'odio inspiegabile. Paimon ci spiega cosa sono gli [[Anemoculi]] ed e' incuriosita su come reagiranno gli Dei donandoglieli. 
 
 
