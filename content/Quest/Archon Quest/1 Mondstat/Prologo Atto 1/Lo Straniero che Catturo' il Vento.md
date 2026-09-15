@@ -40,6 +40,6 @@ Kaeya ci aspetta al [[Tempio del Lupo]]. Kaeya nota che non abbiamo una [[Vision
 
 
 ### 11 Scintille tra le Pagine
-Lisa ci aspetta al [[Tempio del Leone]]. Chiediamo a Lisa di parlarci della sua [[Vision]] e ci racconta cose. Distruggiamo il **Cristallo di Terrore Alato**. Usciti ci spiega quali sono i [[Quattro Venti]] affiliati a [[Barbatos]]. Ci parla anche di come Dvalin sia diventato Terrore Alato per colpa dell'odio inspiegabile. Paimon ci spiega cosa sono gli [[Anemoculi]] ed e' incuriosita su come reagiranno gli Dei donandoglieli. 
+Lisa ci aspetta al [[Tempio del Leone]]. Chiediamo a Lisa di parlarci della sua [[Vision]] e ci racconta cose. Distruggiamo il **Cristallo di Terrore Alato**. Usciti ci spiega quali sono i [[Four Winds]] affiliati a [[Barbatos]]. Ci parla anche di come Dvalin sia diventato Terrore Alato per colpa dell'odio inspiegabile. Paimon ci spiega cosa sono gli [[Anemoculi]] ed e' incuriosita su come reagiranno gli Dei donandoglieli. 
 
 

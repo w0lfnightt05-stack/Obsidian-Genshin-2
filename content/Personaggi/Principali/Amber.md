@@ -1,2 +1,2 @@
 
-Vigilante dei [[Cavalieri di Favonius]] 
+Vigilante dei [[Knights of Favonius]] 

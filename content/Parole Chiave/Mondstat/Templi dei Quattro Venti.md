@@ -6,4 +6,4 @@ Anche [[Dvalin]] ha il suo tempio ma ci ha rinunciato.
 
 
 
-[[Quattro Venti]] 
+[[Four Winds]] 

@@ -18,7 +18,6 @@
 		{"id":"d7c6c514aaaeb496","type":"text","text":"La dinastia della Luna Cremisi di [[Khaenri'ah]] fu rovesciata da un colpo di stato e la Dinastia dell'Eclissi salì al potere. Durante il periodo della Dinastia dell'Eclissi, Khaenri'ah iniziò a sviluppare macchine da guerra di tutti i tipi, chiamate Zappaterra","x":804,"y":-182,"width":453,"height":196,"color":"2"},
 		{"id":"1b307b60b7fc8358","type":"text","text":"Nabu Malikata fu ridotta in cenere dalle fiamme dell'ira e Re Deshret usò il potere del Chiodo Celeste per creare un'Oasi Eterna dove il tempo non scorre per onorare il legame dei tre Dei","x":544,"y":480,"width":520,"height":140},
 		{"id":"aa4ab46384705c14","type":"text","text":"In seguito i Djinn accettarono che Re Deshret diventasse il loro nuovo Maestro, dopo che fu loro promessa la possibilità di \"risvegliare\" Nabu Malikat da un sonno profondo una volta raggiunta l'Oasi Eterna (ecco perche' Liloupar cerco' di vendicarsi del Re, aveva capito che era stata ingannata). Grazie al loro aiuto, il re Deshret poté costruire grandi strutture cerimoniali, come il Mausoleo di Re Deshret","x":1161,"y":597,"width":606,"height":233},
-		{"id":"e296751f2e283634","type":"text","text":"[[6 l'Era di Pausa.canvas]]","x":224,"y":865,"width":197,"height":70,"color":"#463cdc"},
 		{"id":"0cad1f3b167dec64","type":"text","text":"[[Celestia]] uso' i troni dei Dragon Sovereigns per aprire sette troni divini. Cosi', una [[Guerra degli Archon]] tra Dei inizio' per stabilire chi avrebbe ottenuto il titolo di Archon","x":-692,"y":335,"width":338,"height":220},
 		{"id":"281ee29262db983a","type":"text","text":"[[4 L'Era degli Dei.canvas]]","x":-261,"y":375,"width":197,"height":70,"color":"1"},
 		{"id":"8243c3f3c27e6032","type":"text","text":"Con la sua morte, i saggi Bennu, incaricato di sorvegliare Aaru e vegliare sul Sonno Dorato, e Shesepankh, incaricato di supervisionare il Djinn (che lo portò a maturare il senso di curiosità di Nabu Malikata), entrambi costrutti meccanici senzienti con le proprie volontà, si spensero e caddero nella quiete","x":-952,"y":1280,"width":520,"height":227},
@@ -35,13 +34,14 @@
 		{"id":"9d25ae99d798514f","type":"text","text":"Manqu, Sakkuk e i due gemelli disattivarono la fonte energetica alternativa della città, costituita dalle fornaci laterali, mentre Yupanqui riuscì a raggiungere il Scarlet Eyed Youth prima di Ochkan. Il tiranno uccise Yupanqui con il Turnfire; il Scarlet Eyed Youth ascese quindi ad Archon e rase al suolo l'intera città con le fiamme. Ochkan, tuttavia, riuscì a sopravvivere alla distruzione","x":-531,"y":1976,"width":489,"height":277},
 		{"id":"60ddacad9d17bb69","type":"text","text":"Sakkuk e il Scarlet Eyed Youth sopravvissero e in seguito chiese a Sakkuk di cancellare il suo nome dalla storia, prima di ripartire","x":-531,"y":2253,"width":489,"height":96},
 		{"id":"042e7d30b76728d4","type":"text","text":"Scarlet Eyed Youth e' un giovane, il suo nome divino era Haborym e fu' il secondo Pyro Archon","x":-482,"y":2376,"width":391,"height":122,"color":"#000000"},
-		{"id":"ceb66b171d5546bb","type":"text","text":"Temendo che la parte malevola potesse ancora riuscire a influenzare quella benevola, Lianca la mandò via da Natlan. Alla fine raggiunse Nod-Krai dove crollò e rimase per duemila anni","x":601,"y":2628,"width":474,"height":170},
-		{"id":"7c694f4bdfa53d6f","type":"text","text":"Alla fine Lianca si suicidò con una freccia che la inchiodò a un muro per evitare di inginocchiarsi davanti all'esercito di Ochkan, guidato nientemeno che da suo figlio. D'altra parte, sua figlia sacrificò la sua vita per proteggere la tribù da un drago che progettava di sposarla per usare la tribù per i suoi spregevoli obiettivi con la sua ritrovata autorità","x":601,"y":2798,"width":474,"height":289},
 		{"id":"c1dda0d4a6bd56b1","type":"text","text":"2000 anni fa, l'undicesimo Dragonlord sopravvisse alla guerra ma maturò un malfunzionamento dovuto al suo desiderio di trovare un nuovo posto a cui appartenere. Lianca e Ixquieh servirono la sua coscienza e, anche se la parte vendicativa cercò di ingannarli, Lianca vide oltre il suo complotto e sigillò il lato malevolo","x":601,"y":2336,"width":474,"height":254},
 		{"id":"fd536a8e0edebe68","type":"text","text":"All'epoca della Grand Alliance, un dio fungo di nome Bifrons fuggì da Sumeru verso Natlan per ritrovare le sue forze, ma fu sepolto vivo durante un'eruzione vulcanica. Ad un certo punto, il suo potere creò un ramo nel Chasm, chiamato Xamaran (Glowing Narrows)","x":1161,"y":2339,"width":474,"height":196},
 		{"id":"61252fe0e20d8b60","type":"text","text":"Dopo la sconfitta di Ochkan, la tribù che gli era rimasta più fedele (i Muratans che esercitavano il potere di Anemo) fu' esiliata: alcuni accettarono l'esilio nella parte più occidentale di Natlan, Tenocztitoc, mentre altri partirono per la terra del vento vero, Mondstat","x":-970,"y":1976,"width":367,"height":277},
 		{"id":"aa7b724dd2517df0","type":"text","text":"[[4 L'Era degli Dei.canvas]]","x":-1050,"y":1662,"width":196,"height":84,"color":"5"},
-		{"id":"477926db7ecd9a5a","type":"text","text":"[[6 l'Era di Pausa.canvas]]","x":-878,"y":2307,"width":183,"height":84,"color":"5"}
+		{"id":"477926db7ecd9a5a","type":"text","text":"[[6 l'Intermission Era.canvas]]","x":-878,"y":2307,"width":183,"height":84,"color":"5"},
+		{"id":"7c694f4bdfa53d6f","type":"text","text":"Alla fine Lianca si suicidò con una freccia che la inchiodò a un muro per evitare di inginocchiarsi davanti all'esercito di Ochkan, guidato nientemeno che da suo figlio. D'altra parte, sua figlia sacrificò la sua vita per proteggere la tribù da un drago che progettava di sposarla per usare la tribù per i suoi spregevoli obiettivi con la sua ritrovata autorità","x":26,"y":2482,"width":494,"height":252},
+		{"id":"ceb66b171d5546bb","type":"text","text":"Temendo che la parte malevola potesse ancora riuscire a influenzare quella benevola, Lianca la mandò via da Natlan. Alla fine raggiunse Nod-Krai dove crollò e rimase per duemila anni","x":26,"y":2336,"width":494,"height":146},
+		{"id":"e296751f2e283634","type":"text","text":"[[6 l'Intermission Era.canvas]]","x":469,"y":885,"width":197,"height":70,"color":"#463cdc"}
 	],
 	"edges":[
 		{"id":"93cddc76277ec2fd","fromNode":"d28ebea7131549d3","fromSide":"bottom","toNode":"dbe140525d234efd","toSide":"right","color":"3"},
@@ -70,11 +70,11 @@
 		{"id":"99554e752f1635cd","fromNode":"513749f60d7a0b7d","fromSide":"bottom","toNode":"bae3baf6fb4157d5","toSide":"top","color":"5"},
 		{"id":"a6df8392100600f8","fromNode":"9d25ae99d798514f","fromSide":"left","toNode":"61252fe0e20d8b60","toSide":"right","color":"5"},
 		{"id":"e7d72af408e0943b","fromNode":"bae3baf6fb4157d5","fromSide":"bottom","toNode":"c1dda0d4a6bd56b1","toSide":"top","color":"2"},
-		{"id":"7072a0c3bb0a2774","fromNode":"bae3baf6fb4157d5","fromSide":"left","toNode":"3c1044f185a6c579","toSide":"right","color":"1"},
-		{"id":"d71cc1ddf0414445","fromNode":"c1dda0d4a6bd56b1","fromSide":"bottom","toNode":"ceb66b171d5546bb","toSide":"top","color":"2"},
+		{"id":"7072a0c3bb0a2774","fromNode":"bae3baf6fb4157d5","fromSide":"left","toNode":"3c1044f185a6c579","toSide":"right","color":"5"},
+		{"id":"d71cc1ddf0414445","fromNode":"c1dda0d4a6bd56b1","fromSide":"left","toNode":"ceb66b171d5546bb","toSide":"right","color":"2"},
 		{"id":"074ef305c1a996ae","fromNode":"bae3baf6fb4157d5","fromSide":"bottom","toNode":"fd536a8e0edebe68","toSide":"top","color":"4"},
-		{"id":"62c11970894bcca4","fromNode":"3c1044f185a6c579","fromSide":"left","toNode":"db6e94edfc40741f","toSide":"right","color":"1"},
-		{"id":"3f4058f0e05b8422","fromNode":"db6e94edfc40741f","fromSide":"left","toNode":"9d25ae99d798514f","toSide":"right","color":"1"},
+		{"id":"62c11970894bcca4","fromNode":"3c1044f185a6c579","fromSide":"left","toNode":"db6e94edfc40741f","toSide":"right","color":"5"},
+		{"id":"3f4058f0e05b8422","fromNode":"db6e94edfc40741f","fromSide":"left","toNode":"9d25ae99d798514f","toSide":"right","color":"5"},
 		{"id":"ec715c8b36af5b7e","fromNode":"61252fe0e20d8b60","fromSide":"bottom","toNode":"477926db7ecd9a5a","toSide":"top","color":"5"}
 	]
 }

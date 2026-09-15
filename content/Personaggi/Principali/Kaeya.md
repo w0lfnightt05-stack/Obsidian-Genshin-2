@@ -1,2 +1,2 @@
 
-Capitano della Cavalleria dei [[Cavalieri di Favonius]] 
+Capitano della Cavalleria dei [[Knights of Favonius]] 

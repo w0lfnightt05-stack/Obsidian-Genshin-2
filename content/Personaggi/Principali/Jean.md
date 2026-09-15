@@ -1,2 +1,2 @@
 
-Gran Maestra Reggente dei [[Cavalieri di Favonius]], protrettrice di [[Mondstat]]. 
+Gran Maestra Reggente dei [[Knights of Favonius]], protrettrice di [[Mondstat]]. 

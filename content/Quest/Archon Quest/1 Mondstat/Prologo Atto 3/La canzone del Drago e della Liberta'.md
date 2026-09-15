@@ -13,7 +13,7 @@ Grazie ad una corrente d'aria riusciamo a raggiungere la cima della torre.
 
 
 ### Rituale della Luce
-Venti ci racconta come ancora prima dei [[Quattro Venti]], [[Mondstat]] era comandata da un sovrano, un tiranno. Notiamo che la torre e' chiusa da 3 anelli di luce che tramite degli attuatori di luce riusciamo ad aprire. 
+Venti ci racconta come ancora prima dei [[Four Winds]], [[Mondstat]] era comandata da un sovrano, un tiranno. Notiamo che la torre e' chiusa da 3 anelli di luce che tramite degli attuatori di luce riusciamo ad aprire. 
 
 
 ### Quiete prima della Tempesta
