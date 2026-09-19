@@ -1,1 +1,10 @@
 Ci troviamo nel mezzo di un lago. Un egigante si trova al centro incatenato da 4 catene. Alla base di queste catene, ci sono dei pilastri magici che dobbiamo rompere. In ognuno dei 4, troviamo dei fantasmi che spezzano il sigillo che li rendevano immuni ai nostri attacchi. Sembrerebbe che l'ombra che troviamo, sia un umana che vuole incontrare qualcuno delle Esperidi, ma loro non vogliono. Rompendo anche l'ultimo pilastro, tutte le catene si sono rotte e il gigante si sveglio', si alzo' e inizio' a camminare. La prima parte di quest finisce. 
+
+### Come un Labirinto imprigiona i suoi servitori
+E' la seconda parte di quest, anche se viene indicata come nuova quest. Troviamo il gigante a ovest della citta'. Poco dopo, il gigante avanza verso il mare e ci ritroviamo nel Regno delle Ombre. Il gigante viene imprigionato nuovamente da delle catene e decidiamo di aiutarlo. Durante il suo cammino, il gigante dice che ha fatto una promessa e che deve andare a vederla. Rompiamo le prime catene, viene rincatenato. Una di esse ha di nuovo un sigillo che viene rotto dalla stessa ombra trovata in precedenza. Liberato e incatenato per la terza volta. Riusciamo ad uscire dal Regno delle Ombre.
+
+
+### La Dolce Canzone che Cantava
+Terza parte. Il gigante si misa davanti al faro. Scogliamo il ghiaccio sopra al faro che copriva la luce e dal gigante fuorisce una luce che va al faro. L'ombra che ci ha aiutato riappare davanti a lui, al faro. Un ultimo sguardo prima che lui riparti' verso il mare e la stuatua della ragazza ombra apparse al faro. Il gigante svani sotto le onde e la statua della ragazza sembrava quasi attendesse il suo arrivo, in una preghiera di speranza. 
+
+Probabilmente questa quest riguarda la situazione delle Esperidi e di come il matrimonio con gli umani non fosse visto bene?
