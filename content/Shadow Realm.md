@@ -1,0 +1,2 @@
+
+Una dimensione creata da Seutervoinen dove lo spazio e il tempo non esistono, l'energia del [[Light Realm]] e l'energia elementale non scorrono, dove gli Heavenly Principles non avrebbero messo sguardo, in quel posto che faceva da film separando Teyvat dall'Abyss. 
