@@ -3,7 +3,7 @@ Un testo di 3 volumi che include dei canti che le Cantalune dovevano eseguire pe
 
 Volume 1: Un insieme di canti dedicati ai [[Heavenly Principles]] e a [[Le Quattro Ombre]]. L'unica mancante è quella per Asmoday. Quello per Istaroth non ha senso.
 
-Volume 2: Un insieme di canti dedicati a [[Nibelung]], alla Dea dell'Alba [[Koitar]] e l'Apostolo dell'Estremo Nord Seutervoinen ([[Anacharsis]]), l'ultimo al [[Terzo Discendente]] Saarelainen. 
+Volume 2: Un insieme di canti dedicati a [[Nibelung]], alla Dea dell'Alba [[Koitar]] e l'Apostolo dell'Estremo Nord Seutervoinen ([[Anacharsis]]), l'ultimo al [[Third Descender]] Saarelainen. 
 
 Volume 3: Un insieme di canti dedicati a Canon, una delle Tre Lune, e alla Kuutar ([[Columbina]]). 
 
