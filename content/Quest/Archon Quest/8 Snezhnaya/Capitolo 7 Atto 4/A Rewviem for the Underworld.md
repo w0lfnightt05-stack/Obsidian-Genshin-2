@@ -11,3 +11,6 @@ Ora siamo il Viaggiatore e sembrerebbe che riusciamo ad interagire con lui. Gli 
 
 
 Andiamo al te' di Sandrone con Arle. Yapping. Torniamo al ristorante. Vediamo le preparazioni per l'incontro tra Anastasya e Rhinedottir. Non molto. Il giorno dopo decidiamo di andare da Mitya MA arriva [[Dainsleif]]. Ci incontriamo con tutti gli altri comunque. Neanche il tempo di chiacchierare che [[Ronova]] appare. Nel mentre, Rhinedottir e Tsaritsa fanno il loro incontro. Parlano subito di [[Asmoday]] 
+![[Pasted image 20260923171447.png]]
+
+E' il mostro che e' andata a sconfiggere che causava quella tempesta problematica. Quando arrivo' sul posto, vide queste due figure davanti alla bestia. Ovviamente quella a destra e' Asmoday, menr
