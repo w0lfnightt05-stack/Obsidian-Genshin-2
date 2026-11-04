@@ -16,4 +16,15 @@ Suono strano, deserto, scopriamo cosa e' quel suono. Rappresentazione del Dio di
 
 
 ### Natlan
-Problemi con le Ley Lines 
+Problemi con le Ley Lines. Rituale, Regno della notte, entrata nel Nail, Esoptron. Dopo la festicciola, qualcosa cambia. Allogeni.  
+
+### Snezhnaya
+Si torna a palazzo. Noy Tysyatsky si presenta davanti Anastasya. Giretto in un centro pieno di gente con la peste, una maledizione lasciata dalle vecchie fate decedute durante la guerra del primo Tsar. Anastasya con la sua autorita' deve salvarli, per amore. Filamto di lei che cura tutti con la neve e naviga verso il Nail di Snezhnaya. Entra da Esoptron. Altra animazione stra figha di tutti i pilastri che si riuniscono in un unico punto. Una scala nel cielo e la porta del menu di gioco. La porta per Celestia?
+
+Ci ritroviamo tutti davanti alla porta, tutti gli archon. Anche Furina. Finalmente entriamo. Troviamo un database al centro. Siamo nel Divine Throne. 
+![[Pasted image 20261104080017.png]]
+
+Ci sta chiedendo di selezionare un possessore di Vision (Allogeno) da salvare nel database prima che tutta Teyvat sia resettata. Venti chiede di [[Vennessa]], che teoricamente e' ascesa a Celestia. Nukvah (il database) trova corrispondenza e mostra una palla contenente la Soul, la Personality e la Memory. Per Nukvah, noi siamo solo carburante, fatto apposta per venire salvato, ricreato e riutilizzato. 
+![[Pasted image 20261104080817.png]]
+
+Tutti infuriati, ce ne andiamo. Tutti d'accordo nel combattere con tutto noi stessi per i rimanenti 42 giorni di vita rimanenti. 
