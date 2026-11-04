@@ -12,3 +12,4 @@ Torniamo a Snezhnaya per un check veloce della situa. Per controllare Mitya, tro
 
 
 ### Sumeru
+Suono strano, deserto, scopriamo cosa e' quel suono, 
