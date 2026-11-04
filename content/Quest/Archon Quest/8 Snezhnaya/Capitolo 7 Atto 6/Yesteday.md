@@ -13,3 +13,7 @@ Torniamo a Snezhnaya per un check veloce della situa. Per controllare Mitya, tro
 
 ### Sumeru
 Suono strano, deserto, scopriamo cosa e' quel suono. Rappresentazione del Dio di Scara. Vari finali, sogni. Tanti frammenti da scegliere e dove. Nahida si ritrova dentro il Nail of Retribution. Anche noi ci ritroviamo con Paimon nel Nail. Si bugga e ci dice "Welcome to the world". Un altra runa andata. 
+
+
+### Natlan
+Problemi con le Ley Lines 
